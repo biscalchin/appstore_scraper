@@ -20,7 +20,7 @@ If you use this codebase or dataset in your research, please cite our work:
 ```bibtex
 @misc{appstore_scraper,
   author = {Biscalchin, Alberto and Spalazzese, Romina and Font Fernández, José María and Martinez, Carolina and Davidsson, Paul},
-  title = {App Store Scraper: Experimental Replication},
+  title = {Replication package for: A Reproducible Pipeline to Discover Serious Games in App Stores: the Sustainability Case},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository}
