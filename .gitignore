@@ -1,0 +1,40 @@
+# Private folders and files
+private/
+.env
+
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env_dir/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and terminal outputs
+*.log
+terminal_output.txt
+
+# Local Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+papers/
+description_nlp_analysis/
+

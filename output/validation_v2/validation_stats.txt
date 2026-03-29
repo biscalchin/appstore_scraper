@@ -1,0 +1,29 @@
+--- Analysis Timestamp: 2026-01-24 21:11:01.858210 ---
+Total Apps Analyzed: 1644
+
+--- Descriptive Statistics by Category ---
+                                 count      mean       std  min       25%       50%       75%       max
+Sustainability_Category                                                                                
+Moderately Sustainable (Mixed)   412.0  0.011773  0.014122  0.0  0.000000  0.007308  0.018718  0.069257
+Not Sustainable (NO-NO)         1153.0  0.002937  0.005735  0.0  0.000000  0.000000  0.004110  0.037825
+Strongly Sustainable (YES-YES)    79.0  0.029642  0.017709  0.0  0.020958  0.030249  0.036349  0.090452
+
+[Saved] score_distribution_boxplot.png
+
+[Saved] roc_curve.png
+
+--- ROC AUC Score: 0.734 ---
+An AUC of 0.5 is random guessing. 1.0 is perfect prediction.
+
+--- Optimal Threshold Analysis ---
+Best Score Threshold to separate Sustainable from Non-Sustainable: 0.0064
+Achieves F1-Score of: 0.597
+
+[Saved] confusion_matrix.png
+Accuracy at Threshold: 0.762
+Precision at Threshold: 0.604
+Recall at Threshold: 0.591
+
+--- Direct vs Indirect Distinction ---
+Mean Score for DIRECTLY Educative: 0.0252
+Mean Score for INDIRECTLY Educative: 0.0109

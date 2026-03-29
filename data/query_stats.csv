@@ -1,0 +1,1981 @@
+Query Keyword,GenreId,Query Subgenre,API Results (raw),Passed Language Filter,Passed PrimaryGenre Filter (Games),Unique Added,Duplicates Skipped
+sustainability,6014,Games (primary),110,108,0,0,0
+sustainability,7001,Action,110,108,0,0,0
+sustainability,7002,Adventure,110,108,0,0,0
+sustainability,7003,Arcade,110,108,0,0,0
+sustainability,7004,Board,110,108,0,0,0
+sustainability,7005,Card,110,108,0,0,0
+sustainability,7006,Casino,110,108,0,0,0
+sustainability,7007,Dice,110,108,0,0,0
+sustainability,7008,Educational,110,108,0,0,0
+sustainability,7009,Family,110,108,0,0,0
+sustainability,7010,Kids,110,108,0,0,0
+sustainability,7011,Music,110,108,0,0,0
+sustainability,7012,Puzzle,110,108,0,0,0
+sustainability,7013,Racing,110,108,0,0,0
+sustainability,7014,Role Playing,110,108,0,0,0
+sustainability,7015,Simulation,110,108,0,0,0
+sustainability,7016,Sports,110,108,0,0,0
+sustainability,7017,Strategy,110,108,0,0,0
+sustainability,7018,Trivia,110,108,0,0,0
+sustainability,7019,Word,110,108,0,0,0
+sustainable,6014,Games (primary),135,132,1,1,0
+sustainable,7001,Action,135,132,1,0,1
+sustainable,7002,Adventure,135,132,1,0,1
+sustainable,7003,Arcade,135,132,1,0,1
+sustainable,7004,Board,135,132,1,0,1
+sustainable,7005,Card,135,132,1,0,1
+sustainable,7006,Casino,135,132,1,0,1
+sustainable,7007,Dice,135,132,1,0,1
+sustainable,7008,Educational,135,132,1,0,1
+sustainable,7009,Family,135,132,1,0,1
+sustainable,7010,Kids,135,132,1,0,1
+sustainable,7011,Music,135,132,1,0,1
+sustainable,7012,Puzzle,135,132,1,0,1
+sustainable,7013,Racing,135,132,1,0,1
+sustainable,7014,Role Playing,135,132,1,0,1
+sustainable,7015,Simulation,135,132,1,0,1
+sustainable,7016,Sports,135,132,1,0,1
+sustainable,7017,Strategy,135,132,1,0,1
+sustainable,7018,Trivia,135,132,1,0,1
+sustainable,7019,Word,135,132,1,0,1
+environment,6014,Games (primary),131,129,2,2,0
+environment,7001,Action,131,129,2,0,2
+environment,7002,Adventure,131,129,2,0,2
+environment,7003,Arcade,131,129,2,0,2
+environment,7004,Board,131,129,2,0,2
+environment,7005,Card,131,129,2,0,2
+environment,7006,Casino,131,129,2,0,2
+environment,7007,Dice,131,129,2,0,2
+environment,7008,Educational,131,129,2,0,2
+environment,7009,Family,131,129,2,0,2
+environment,7010,Kids,131,129,2,0,2
+environment,7011,Music,131,129,2,0,2
+environment,7012,Puzzle,131,129,2,0,2
+environment,7013,Racing,131,129,2,0,2
+environment,7014,Role Playing,131,129,2,0,2
+environment,7015,Simulation,131,129,2,0,2
+environment,7016,Sports,131,129,2,0,2
+environment,7017,Strategy,131,129,2,0,2
+environment,7018,Trivia,131,129,2,0,2
+environment,7019,Word,131,129,2,0,2
+environmental,6014,Games (primary),125,121,2,2,0
+environmental,7001,Action,125,121,2,0,2
+environmental,7002,Adventure,125,121,2,0,2
+environmental,7003,Arcade,125,121,2,0,2
+environmental,7004,Board,125,121,2,0,2
+environmental,7005,Card,125,121,2,0,2
+environmental,7006,Casino,125,121,2,0,2
+environmental,7007,Dice,125,121,2,0,2
+environmental,7008,Educational,125,121,2,0,2
+environmental,7009,Family,125,121,2,0,2
+environmental,7010,Kids,125,121,2,0,2
+environmental,7011,Music,125,121,2,0,2
+environmental,7012,Puzzle,125,121,2,0,2
+environmental,7013,Racing,125,121,2,0,2
+environmental,7014,Role Playing,125,121,2,0,2
+environmental,7015,Simulation,125,121,2,0,2
+environmental,7016,Sports,125,121,2,0,2
+environmental,7017,Strategy,125,121,2,0,2
+environmental,7018,Trivia,125,121,2,0,2
+environmental,7019,Word,125,121,2,0,2
+ecology,6014,Games (primary),158,150,5,3,2
+ecology,7001,Action,158,150,5,0,5
+ecology,7002,Adventure,158,150,5,0,5
+ecology,7003,Arcade,158,150,5,0,5
+ecology,7004,Board,158,150,5,0,5
+ecology,7005,Card,158,150,5,0,5
+ecology,7006,Casino,158,150,5,0,5
+ecology,7007,Dice,158,150,5,0,5
+ecology,7008,Educational,158,150,5,0,5
+ecology,7009,Family,158,150,5,0,5
+ecology,7010,Kids,158,150,5,0,5
+ecology,7011,Music,158,150,5,0,5
+ecology,7012,Puzzle,158,150,5,0,5
+ecology,7013,Racing,158,150,5,0,5
+ecology,7014,Role Playing,158,150,5,0,5
+ecology,7015,Simulation,158,150,5,0,5
+ecology,7016,Sports,158,150,5,0,5
+ecology,7017,Strategy,158,150,5,0,5
+ecology,7018,Trivia,158,150,5,0,5
+ecology,7019,Word,158,150,5,0,5
+eco,6014,Games (primary),161,157,10,8,2
+eco,7001,Action,161,157,10,0,10
+eco,7002,Adventure,161,157,10,0,10
+eco,7003,Arcade,161,157,10,0,10
+eco,7004,Board,161,157,10,0,10
+eco,7005,Card,161,157,10,0,10
+eco,7006,Casino,161,157,10,0,10
+eco,7007,Dice,161,157,10,0,10
+eco,7008,Educational,161,157,10,0,10
+eco,7009,Family,161,157,10,0,10
+eco,7010,Kids,161,157,10,0,10
+eco,7011,Music,161,157,10,0,10
+eco,7012,Puzzle,161,157,10,0,10
+eco,7013,Racing,161,157,10,0,10
+eco,7014,Role Playing,161,157,10,0,10
+eco,7015,Simulation,161,157,10,0,10
+eco,7016,Sports,161,157,10,0,10
+eco,7017,Strategy,161,157,10,0,10
+eco,7018,Trivia,161,157,10,0,10
+eco,7019,Word,161,157,10,0,10
+green,6014,Games (primary),140,138,17,17,0
+green,7001,Action,140,138,17,0,17
+green,7002,Adventure,140,138,17,0,17
+green,7003,Arcade,140,138,17,0,17
+green,7004,Board,140,138,17,0,17
+green,7005,Card,140,138,17,0,17
+green,7006,Casino,140,138,17,0,17
+green,7007,Dice,140,138,17,0,17
+green,7008,Educational,140,138,17,0,17
+green,7009,Family,140,138,17,0,17
+green,7010,Kids,140,138,17,0,17
+green,7011,Music,140,138,17,0,17
+green,7012,Puzzle,140,138,17,0,17
+green,7013,Racing,140,138,17,0,17
+green,7014,Role Playing,140,138,17,0,17
+green,7015,Simulation,140,138,17,0,17
+green,7016,Sports,140,138,17,0,17
+green,7017,Strategy,140,138,17,0,17
+green,7018,Trivia,140,138,17,0,17
+green,7019,Word,140,138,17,0,17
+nature,6014,Games (primary),156,151,17,17,0
+nature,7001,Action,156,151,17,0,17
+nature,7002,Adventure,156,151,17,0,17
+nature,7003,Arcade,156,151,17,0,17
+nature,7004,Board,156,151,17,0,17
+nature,7005,Card,156,151,17,0,17
+nature,7006,Casino,156,151,17,0,17
+nature,7007,Dice,156,151,17,0,17
+nature,7008,Educational,156,151,17,0,17
+nature,7009,Family,156,151,17,0,17
+nature,7010,Kids,156,151,17,0,17
+nature,7011,Music,156,151,17,0,17
+nature,7012,Puzzle,156,151,17,0,17
+nature,7013,Racing,156,151,17,0,17
+nature,7014,Role Playing,156,151,17,0,17
+nature,7015,Simulation,156,151,17,0,17
+nature,7016,Sports,156,151,17,0,17
+nature,7017,Strategy,156,151,17,0,17
+nature,7018,Trivia,156,151,17,0,17
+nature,7019,Word,156,151,17,0,17
+wildlife,6014,Games (primary),165,163,34,32,2
+wildlife,7001,Action,165,163,34,0,34
+wildlife,7002,Adventure,165,163,34,0,34
+wildlife,7003,Arcade,165,163,34,0,34
+wildlife,7004,Board,165,163,34,0,34
+wildlife,7005,Card,165,163,34,0,34
+wildlife,7006,Casino,165,163,34,0,34
+wildlife,7007,Dice,165,163,34,0,34
+wildlife,7008,Educational,165,163,34,0,34
+wildlife,7009,Family,165,163,34,0,34
+wildlife,7010,Kids,165,163,34,0,34
+wildlife,7011,Music,165,163,34,0,34
+wildlife,7012,Puzzle,165,163,34,0,34
+wildlife,7013,Racing,165,163,34,0,34
+wildlife,7014,Role Playing,165,163,34,0,34
+wildlife,7015,Simulation,165,163,34,0,34
+wildlife,7016,Sports,165,163,34,0,34
+wildlife,7017,Strategy,165,163,34,0,34
+wildlife,7018,Trivia,165,163,34,0,34
+wildlife,7019,Word,165,163,34,0,34
+biodiversity,6014,Games (primary),171,162,3,2,1
+biodiversity,7001,Action,171,162,3,0,3
+biodiversity,7002,Adventure,171,162,3,0,3
+biodiversity,7003,Arcade,171,162,3,0,3
+biodiversity,7004,Board,171,162,3,0,3
+biodiversity,7005,Card,171,162,3,0,3
+biodiversity,7006,Casino,171,162,3,0,3
+biodiversity,7007,Dice,171,162,3,0,3
+biodiversity,7008,Educational,171,162,3,0,3
+biodiversity,7009,Family,171,162,3,0,3
+biodiversity,7010,Kids,171,162,3,0,3
+biodiversity,7011,Music,171,162,3,0,3
+biodiversity,7012,Puzzle,171,162,3,0,3
+biodiversity,7013,Racing,171,162,3,0,3
+biodiversity,7014,Role Playing,171,162,3,0,3
+biodiversity,7015,Simulation,171,162,3,0,3
+biodiversity,7016,Sports,171,162,3,0,3
+biodiversity,7017,Strategy,171,162,3,0,3
+biodiversity,7018,Trivia,171,162,3,0,3
+biodiversity,7019,Word,171,162,3,0,3
+forest,6014,Games (primary),135,132,49,48,1
+forest,7001,Action,135,132,49,0,49
+forest,7002,Adventure,135,132,49,0,49
+forest,7003,Arcade,135,132,49,0,49
+forest,7004,Board,135,132,49,0,49
+forest,7005,Card,135,132,49,0,49
+forest,7006,Casino,135,132,49,0,49
+forest,7007,Dice,135,132,49,0,49
+forest,7008,Educational,135,132,49,0,49
+forest,7009,Family,135,132,49,0,49
+forest,7010,Kids,135,132,49,0,49
+forest,7011,Music,135,132,49,0,49
+forest,7012,Puzzle,135,132,49,0,49
+forest,7013,Racing,135,132,49,0,49
+forest,7014,Role Playing,135,132,49,0,49
+forest,7015,Simulation,135,132,49,0,49
+forest,7016,Sports,135,132,49,0,49
+forest,7017,Strategy,135,132,49,0,49
+forest,7018,Trivia,135,132,49,0,49
+forest,7019,Word,135,132,49,0,49
+planet,6014,Games (primary),169,168,91,89,2
+planet,7001,Action,169,168,91,0,91
+planet,7002,Adventure,169,168,91,0,91
+planet,7003,Arcade,169,168,91,0,91
+planet,7004,Board,169,168,91,0,91
+planet,7005,Card,169,168,91,0,91
+planet,7006,Casino,169,168,91,0,91
+planet,7007,Dice,169,168,91,0,91
+planet,7008,Educational,169,168,91,0,91
+planet,7009,Family,169,168,91,0,91
+planet,7010,Kids,169,168,91,0,91
+planet,7011,Music,169,168,91,0,91
+planet,7012,Puzzle,169,168,91,0,91
+planet,7013,Racing,169,168,91,0,91
+planet,7014,Role Playing,169,168,91,0,91
+planet,7015,Simulation,169,168,91,0,91
+planet,7016,Sports,169,168,91,0,91
+planet,7017,Strategy,169,168,91,0,91
+planet,7018,Trivia,169,168,91,0,91
+planet,7019,Word,169,168,91,0,91
+world,6014,Games (primary),168,167,111,105,6
+world,7001,Action,168,167,111,0,111
+world,7002,Adventure,168,167,111,0,111
+world,7003,Arcade,168,167,111,0,111
+world,7004,Board,168,167,111,0,111
+world,7005,Card,168,167,111,0,111
+world,7006,Casino,168,167,111,0,111
+world,7007,Dice,168,167,111,0,111
+world,7008,Educational,168,167,111,0,111
+world,7009,Family,168,167,111,0,111
+world,7010,Kids,168,167,111,0,111
+world,7011,Music,168,167,111,0,111
+world,7012,Puzzle,168,167,111,0,111
+world,7013,Racing,168,167,111,0,111
+world,7014,Role Playing,168,167,111,0,111
+world,7015,Simulation,168,167,111,0,111
+world,7016,Sports,168,167,111,0,111
+world,7017,Strategy,168,167,111,0,111
+world,7018,Trivia,168,167,111,0,111
+world,7019,Word,168,167,111,0,111
+climate,6014,Games (primary),183,181,0,0,0
+climate,7001,Action,183,181,0,0,0
+climate,7002,Adventure,183,181,0,0,0
+climate,7003,Arcade,183,181,0,0,0
+climate,7004,Board,183,181,0,0,0
+climate,7005,Card,183,181,0,0,0
+climate,7006,Casino,183,181,0,0,0
+climate,7007,Dice,183,181,0,0,0
+climate,7008,Educational,183,181,0,0,0
+climate,7009,Family,183,181,0,0,0
+climate,7010,Kids,183,181,0,0,0
+climate,7011,Music,183,181,0,0,0
+climate,7012,Puzzle,183,181,0,0,0
+climate,7013,Racing,183,181,0,0,0
+climate,7014,Role Playing,183,181,0,0,0
+climate,7015,Simulation,183,181,0,0,0
+climate,7016,Sports,183,181,0,0,0
+climate,7017,Strategy,183,181,0,0,0
+climate,7018,Trivia,183,181,0,0,0
+climate,7019,Word,183,181,0,0,0
+climate change,6014,Games (primary),145,143,8,8,0
+climate change,7001,Action,145,143,8,0,8
+climate change,7002,Adventure,145,143,8,0,8
+climate change,7003,Arcade,145,143,8,0,8
+climate change,7004,Board,145,143,8,0,8
+climate change,7005,Card,145,143,8,0,8
+climate change,7006,Casino,145,143,8,0,8
+climate change,7007,Dice,145,143,8,0,8
+climate change,7008,Educational,145,143,8,0,8
+climate change,7009,Family,145,143,8,0,8
+climate change,7010,Kids,145,143,8,0,8
+climate change,7011,Music,145,143,8,0,8
+climate change,7012,Puzzle,145,143,8,0,8
+climate change,7013,Racing,145,143,8,0,8
+climate change,7014,Role Playing,145,143,8,0,8
+climate change,7015,Simulation,145,143,8,0,8
+climate change,7016,Sports,145,143,8,0,8
+climate change,7017,Strategy,145,143,8,0,8
+climate change,7018,Trivia,145,143,8,0,8
+climate change,7019,Word,145,143,8,0,8
+global warming,6014,Games (primary),158,154,11,4,7
+global warming,7001,Action,158,154,11,0,11
+global warming,7002,Adventure,158,154,11,0,11
+global warming,7003,Arcade,158,154,11,0,11
+global warming,7004,Board,158,154,11,0,11
+global warming,7005,Card,158,154,11,0,11
+global warming,7006,Casino,158,154,11,0,11
+global warming,7007,Dice,158,154,11,0,11
+global warming,7008,Educational,158,154,11,0,11
+global warming,7009,Family,158,154,11,0,11
+global warming,7010,Kids,158,154,11,0,11
+global warming,7011,Music,158,154,11,0,11
+global warming,7012,Puzzle,158,154,11,0,11
+global warming,7013,Racing,158,154,11,0,11
+global warming,7014,Role Playing,158,154,11,0,11
+global warming,7015,Simulation,158,154,11,0,11
+global warming,7016,Sports,158,154,11,0,11
+global warming,7017,Strategy,158,154,11,0,11
+global warming,7018,Trivia,158,154,11,0,11
+global warming,7019,Word,158,154,11,0,11
+pollution,6014,Games (primary),168,165,3,2,1
+pollution,7001,Action,168,165,3,0,3
+pollution,7002,Adventure,168,165,3,0,3
+pollution,7003,Arcade,168,165,3,0,3
+pollution,7004,Board,168,165,3,0,3
+pollution,7005,Card,168,165,3,0,3
+pollution,7006,Casino,168,165,3,0,3
+pollution,7007,Dice,168,165,3,0,3
+pollution,7008,Educational,168,165,3,0,3
+pollution,7009,Family,168,165,3,0,3
+pollution,7010,Kids,168,165,3,0,3
+pollution,7011,Music,168,165,3,0,3
+pollution,7012,Puzzle,168,165,3,0,3
+pollution,7013,Racing,168,165,3,0,3
+pollution,7014,Role Playing,168,165,3,0,3
+pollution,7015,Simulation,168,165,3,0,3
+pollution,7016,Sports,168,165,3,0,3
+pollution,7017,Strategy,168,165,3,0,3
+pollution,7018,Trivia,168,165,3,0,3
+pollution,7019,Word,168,165,3,0,3
+air pollution,6014,Games (primary),173,170,0,0,0
+air pollution,7001,Action,173,170,0,0,0
+air pollution,7002,Adventure,173,170,0,0,0
+air pollution,7003,Arcade,173,170,0,0,0
+air pollution,7004,Board,173,170,0,0,0
+air pollution,7005,Card,173,170,0,0,0
+air pollution,7006,Casino,173,170,0,0,0
+air pollution,7007,Dice,173,170,0,0,0
+air pollution,7008,Educational,173,170,0,0,0
+air pollution,7009,Family,173,170,0,0,0
+air pollution,7010,Kids,173,170,0,0,0
+air pollution,7011,Music,173,170,0,0,0
+air pollution,7012,Puzzle,173,170,0,0,0
+air pollution,7013,Racing,173,170,0,0,0
+air pollution,7014,Role Playing,173,170,0,0,0
+air pollution,7015,Simulation,173,170,0,0,0
+air pollution,7016,Sports,173,170,0,0,0
+air pollution,7017,Strategy,173,170,0,0,0
+air pollution,7018,Trivia,173,170,0,0,0
+air pollution,7019,Word,173,170,0,0,0
+water pollution,6014,Games (primary),165,161,6,4,2
+water pollution,7001,Action,165,161,6,0,6
+water pollution,7002,Adventure,165,161,6,0,6
+water pollution,7003,Arcade,165,161,6,0,6
+water pollution,7004,Board,165,161,6,0,6
+water pollution,7005,Card,165,161,6,0,6
+water pollution,7006,Casino,165,161,6,0,6
+water pollution,7007,Dice,165,161,6,0,6
+water pollution,7008,Educational,165,161,6,0,6
+water pollution,7009,Family,165,161,6,0,6
+water pollution,7010,Kids,165,161,6,0,6
+water pollution,7011,Music,165,161,6,0,6
+water pollution,7012,Puzzle,165,161,6,0,6
+water pollution,7013,Racing,165,161,6,0,6
+water pollution,7014,Role Playing,165,161,6,0,6
+water pollution,7015,Simulation,165,161,6,0,6
+water pollution,7016,Sports,165,161,6,0,6
+water pollution,7017,Strategy,165,161,6,0,6
+water pollution,7018,Trivia,165,161,6,0,6
+water pollution,7019,Word,165,161,6,0,6
+waste,6014,Games (primary),153,151,1,1,0
+waste,7001,Action,153,151,1,0,1
+waste,7002,Adventure,153,151,1,0,1
+waste,7003,Arcade,153,151,1,0,1
+waste,7004,Board,153,151,1,0,1
+waste,7005,Card,153,151,1,0,1
+waste,7006,Casino,153,151,1,0,1
+waste,7007,Dice,153,151,1,0,1
+waste,7008,Educational,153,151,1,0,1
+waste,7009,Family,153,151,1,0,1
+waste,7010,Kids,153,151,1,0,1
+waste,7011,Music,153,151,1,0,1
+waste,7012,Puzzle,153,151,1,0,1
+waste,7013,Racing,153,151,1,0,1
+waste,7014,Role Playing,153,151,1,0,1
+waste,7015,Simulation,153,151,1,0,1
+waste,7016,Sports,153,151,1,0,1
+waste,7017,Strategy,153,151,1,0,1
+waste,7018,Trivia,153,151,1,0,1
+waste,7019,Word,153,151,1,0,1
+recycling,6014,Games (primary),154,152,12,12,0
+recycling,7001,Action,154,152,12,0,12
+recycling,7002,Adventure,154,152,12,0,12
+recycling,7003,Arcade,154,152,12,0,12
+recycling,7004,Board,154,152,12,0,12
+recycling,7005,Card,154,152,12,0,12
+recycling,7006,Casino,154,152,12,0,12
+recycling,7007,Dice,154,152,12,0,12
+recycling,7008,Educational,154,152,12,0,12
+recycling,7009,Family,154,152,12,0,12
+recycling,7010,Kids,154,152,12,0,12
+recycling,7011,Music,154,152,12,0,12
+recycling,7012,Puzzle,154,152,12,0,12
+recycling,7013,Racing,154,152,12,0,12
+recycling,7014,Role Playing,154,152,12,0,12
+recycling,7015,Simulation,154,152,12,0,12
+recycling,7016,Sports,154,152,12,0,12
+recycling,7017,Strategy,154,152,12,0,12
+recycling,7018,Trivia,154,152,12,0,12
+recycling,7019,Word,154,152,12,0,12
+zero waste,6014,Games (primary),174,172,2,1,1
+zero waste,7001,Action,174,172,2,0,2
+zero waste,7002,Adventure,174,172,2,0,2
+zero waste,7003,Arcade,174,172,2,0,2
+zero waste,7004,Board,174,172,2,0,2
+zero waste,7005,Card,174,172,2,0,2
+zero waste,7006,Casino,174,172,2,0,2
+zero waste,7007,Dice,174,172,2,0,2
+zero waste,7008,Educational,174,172,2,0,2
+zero waste,7009,Family,174,172,2,0,2
+zero waste,7010,Kids,174,172,2,0,2
+zero waste,7011,Music,174,172,2,0,2
+zero waste,7012,Puzzle,174,172,2,0,2
+zero waste,7013,Racing,174,172,2,0,2
+zero waste,7014,Role Playing,174,172,2,0,2
+zero waste,7015,Simulation,174,172,2,0,2
+zero waste,7016,Sports,174,172,2,0,2
+zero waste,7017,Strategy,174,172,2,0,2
+zero waste,7018,Trivia,174,172,2,0,2
+zero waste,7019,Word,174,172,2,0,2
+waste management,6014,Games (primary),165,158,3,2,1
+waste management,7001,Action,165,158,3,0,3
+waste management,7002,Adventure,165,158,3,0,3
+waste management,7003,Arcade,165,158,3,0,3
+waste management,7004,Board,165,158,3,0,3
+waste management,7005,Card,165,158,3,0,3
+waste management,7006,Casino,165,158,3,0,3
+waste management,7007,Dice,165,158,3,0,3
+waste management,7008,Educational,165,158,3,0,3
+waste management,7009,Family,165,158,3,0,3
+waste management,7010,Kids,165,158,3,0,3
+waste management,7011,Music,165,158,3,0,3
+waste management,7012,Puzzle,165,158,3,0,3
+waste management,7013,Racing,165,158,3,0,3
+waste management,7014,Role Playing,165,158,3,0,3
+waste management,7015,Simulation,165,158,3,0,3
+waste management,7016,Sports,165,158,3,0,3
+waste management,7017,Strategy,165,158,3,0,3
+waste management,7018,Trivia,165,158,3,0,3
+waste management,7019,Word,165,158,3,0,3
+resource management,6014,Games (primary),178,167,8,8,0
+resource management,7001,Action,178,167,8,0,8
+resource management,7002,Adventure,178,167,8,0,8
+resource management,7003,Arcade,178,167,8,0,8
+resource management,7004,Board,178,167,8,0,8
+resource management,7005,Card,178,167,8,0,8
+resource management,7006,Casino,178,167,8,0,8
+resource management,7007,Dice,178,167,8,0,8
+resource management,7008,Educational,178,167,8,0,8
+resource management,7009,Family,178,167,8,0,8
+resource management,7010,Kids,178,167,8,0,8
+resource management,7011,Music,178,167,8,0,8
+resource management,7012,Puzzle,178,167,8,0,8
+resource management,7013,Racing,178,167,8,0,8
+resource management,7014,Role Playing,178,167,8,0,8
+resource management,7015,Simulation,178,167,8,0,8
+resource management,7016,Sports,178,167,8,0,8
+resource management,7017,Strategy,178,167,8,0,8
+resource management,7018,Trivia,178,167,8,0,8
+resource management,7019,Word,178,167,8,0,8
+renewable,6014,Games (primary),180,177,4,4,0
+renewable,7001,Action,180,177,4,0,4
+renewable,7002,Adventure,180,177,4,0,4
+renewable,7003,Arcade,180,177,4,0,4
+renewable,7004,Board,180,177,4,0,4
+renewable,7005,Card,180,177,4,0,4
+renewable,7006,Casino,180,177,4,0,4
+renewable,7007,Dice,180,177,4,0,4
+renewable,7008,Educational,180,177,4,0,4
+renewable,7009,Family,180,177,4,0,4
+renewable,7010,Kids,180,177,4,0,4
+renewable,7011,Music,180,177,4,0,4
+renewable,7012,Puzzle,180,177,4,0,4
+renewable,7013,Racing,180,177,4,0,4
+renewable,7014,Role Playing,180,177,4,0,4
+renewable,7015,Simulation,180,177,4,0,4
+renewable,7016,Sports,180,177,4,0,4
+renewable,7017,Strategy,180,177,4,0,4
+renewable,7018,Trivia,180,177,4,0,4
+renewable,7019,Word,180,177,4,0,4
+renewable energy,6014,Games (primary),163,159,4,2,2
+renewable energy,7001,Action,163,159,4,0,4
+renewable energy,7002,Adventure,163,159,4,0,4
+renewable energy,7003,Arcade,163,159,4,0,4
+renewable energy,7004,Board,163,159,4,0,4
+renewable energy,7005,Card,163,159,4,0,4
+renewable energy,7006,Casino,163,159,4,0,4
+renewable energy,7007,Dice,163,159,4,0,4
+renewable energy,7008,Educational,163,159,4,0,4
+renewable energy,7009,Family,163,159,4,0,4
+renewable energy,7010,Kids,163,159,4,0,4
+renewable energy,7011,Music,163,159,4,0,4
+renewable energy,7012,Puzzle,163,159,4,0,4
+renewable energy,7013,Racing,163,159,4,0,4
+renewable energy,7014,Role Playing,163,159,4,0,4
+renewable energy,7015,Simulation,163,159,4,0,4
+renewable energy,7016,Sports,163,159,4,0,4
+renewable energy,7017,Strategy,163,159,4,0,4
+renewable energy,7018,Trivia,163,159,4,0,4
+renewable energy,7019,Word,163,159,4,0,4
+green energy,6014,Games (primary),151,149,7,3,4
+green energy,7001,Action,151,149,7,0,7
+green energy,7002,Adventure,151,149,7,0,7
+green energy,7003,Arcade,151,149,7,0,7
+green energy,7004,Board,151,149,7,0,7
+green energy,7005,Card,151,149,7,0,7
+green energy,7006,Casino,151,149,7,0,7
+green energy,7007,Dice,151,149,7,0,7
+green energy,7008,Educational,151,149,7,0,7
+green energy,7009,Family,151,149,7,0,7
+green energy,7010,Kids,151,149,7,0,7
+green energy,7011,Music,151,149,7,0,7
+green energy,7012,Puzzle,151,149,7,0,7
+green energy,7013,Racing,151,149,7,0,7
+green energy,7014,Role Playing,151,149,7,0,7
+green energy,7015,Simulation,151,149,7,0,7
+green energy,7016,Sports,151,149,7,0,7
+green energy,7017,Strategy,151,149,7,0,7
+green energy,7018,Trivia,151,149,7,0,7
+green energy,7019,Word,151,149,7,0,7
+clean energy,6014,Games (primary),173,169,2,1,1
+clean energy,7001,Action,173,169,2,0,2
+clean energy,7002,Adventure,173,169,2,0,2
+clean energy,7003,Arcade,173,169,2,0,2
+clean energy,7004,Board,173,169,2,0,2
+clean energy,7005,Card,173,169,2,0,2
+clean energy,7006,Casino,173,169,2,0,2
+clean energy,7007,Dice,173,169,2,0,2
+clean energy,7008,Educational,173,169,2,0,2
+clean energy,7009,Family,173,169,2,0,2
+clean energy,7010,Kids,173,169,2,0,2
+clean energy,7011,Music,173,169,2,0,2
+clean energy,7012,Puzzle,173,169,2,0,2
+clean energy,7013,Racing,173,169,2,0,2
+clean energy,7014,Role Playing,173,169,2,0,2
+clean energy,7015,Simulation,173,169,2,0,2
+clean energy,7016,Sports,173,169,2,0,2
+clean energy,7017,Strategy,173,169,2,0,2
+clean energy,7018,Trivia,173,169,2,0,2
+clean energy,7019,Word,173,169,2,0,2
+solar,6014,Games (primary),161,158,5,2,3
+solar,7001,Action,161,158,5,0,5
+solar,7002,Adventure,161,158,5,0,5
+solar,7003,Arcade,161,158,5,0,5
+solar,7004,Board,161,158,5,0,5
+solar,7005,Card,161,158,5,0,5
+solar,7006,Casino,161,158,5,0,5
+solar,7007,Dice,161,158,5,0,5
+solar,7008,Educational,161,158,5,0,5
+solar,7009,Family,161,158,5,0,5
+solar,7010,Kids,161,158,5,0,5
+solar,7011,Music,161,158,5,0,5
+solar,7012,Puzzle,161,158,5,0,5
+solar,7013,Racing,161,158,5,0,5
+solar,7014,Role Playing,161,158,5,0,5
+solar,7015,Simulation,161,158,5,0,5
+solar,7016,Sports,161,158,5,0,5
+solar,7017,Strategy,161,158,5,0,5
+solar,7018,Trivia,161,158,5,0,5
+solar,7019,Word,161,158,5,0,5
+wind,6014,Games (primary),146,140,7,7,0
+wind,7001,Action,146,140,7,0,7
+wind,7002,Adventure,146,140,7,0,7
+wind,7003,Arcade,146,140,7,0,7
+wind,7004,Board,146,140,7,0,7
+wind,7005,Card,146,140,7,0,7
+wind,7006,Casino,146,140,7,0,7
+wind,7007,Dice,146,140,7,0,7
+wind,7008,Educational,146,140,7,0,7
+wind,7009,Family,146,140,7,0,7
+wind,7010,Kids,146,140,7,0,7
+wind,7011,Music,146,140,7,0,7
+wind,7012,Puzzle,146,140,7,0,7
+wind,7013,Racing,146,140,7,0,7
+wind,7014,Role Playing,146,140,7,0,7
+wind,7015,Simulation,146,140,7,0,7
+wind,7016,Sports,146,140,7,0,7
+wind,7017,Strategy,146,140,7,0,7
+wind,7018,Trivia,146,140,7,0,7
+wind,7019,Word,146,140,7,0,7
+carbon,6014,Games (primary),155,153,3,1,2
+carbon,7001,Action,155,153,3,0,3
+carbon,7002,Adventure,155,153,3,0,3
+carbon,7003,Arcade,155,153,3,0,3
+carbon,7004,Board,155,153,3,0,3
+carbon,7005,Card,155,153,3,0,3
+carbon,7006,Casino,155,153,3,0,3
+carbon,7007,Dice,155,153,3,0,3
+carbon,7008,Educational,155,153,3,0,3
+carbon,7009,Family,155,153,3,0,3
+carbon,7010,Kids,155,153,3,0,3
+carbon,7011,Music,155,153,3,0,3
+carbon,7012,Puzzle,155,153,3,0,3
+carbon,7013,Racing,155,153,3,0,3
+carbon,7014,Role Playing,155,153,3,0,3
+carbon,7015,Simulation,155,153,3,0,3
+carbon,7016,Sports,155,153,3,0,3
+carbon,7017,Strategy,155,153,3,0,3
+carbon,7018,Trivia,155,153,3,0,3
+carbon,7019,Word,155,153,3,0,3
+carbon footprint,6014,Games (primary),158,156,3,2,1
+carbon footprint,7001,Action,158,156,3,0,3
+carbon footprint,7002,Adventure,158,156,3,0,3
+carbon footprint,7003,Arcade,158,156,3,0,3
+carbon footprint,7004,Board,158,156,3,0,3
+carbon footprint,7005,Card,158,156,3,0,3
+carbon footprint,7006,Casino,158,156,3,0,3
+carbon footprint,7007,Dice,158,156,3,0,3
+carbon footprint,7008,Educational,158,156,3,0,3
+carbon footprint,7009,Family,158,156,3,0,3
+carbon footprint,7010,Kids,158,156,3,0,3
+carbon footprint,7011,Music,158,156,3,0,3
+carbon footprint,7012,Puzzle,158,156,3,0,3
+carbon footprint,7013,Racing,158,156,3,0,3
+carbon footprint,7014,Role Playing,158,156,3,0,3
+carbon footprint,7015,Simulation,158,156,3,0,3
+carbon footprint,7016,Sports,158,156,3,0,3
+carbon footprint,7017,Strategy,158,156,3,0,3
+carbon footprint,7018,Trivia,158,156,3,0,3
+carbon footprint,7019,Word,158,156,3,0,3
+water,6014,Games (primary),177,174,42,41,1
+water,7001,Action,177,174,42,0,42
+water,7002,Adventure,177,174,42,0,42
+water,7003,Arcade,177,174,42,0,42
+water,7004,Board,177,174,42,0,42
+water,7005,Card,177,174,42,0,42
+water,7006,Casino,177,174,42,0,42
+water,7007,Dice,177,174,42,0,42
+water,7008,Educational,177,174,42,0,42
+water,7009,Family,177,174,42,0,42
+water,7010,Kids,177,174,42,0,42
+water,7011,Music,177,174,42,0,42
+water,7012,Puzzle,177,174,42,0,42
+water,7013,Racing,177,174,42,0,42
+water,7014,Role Playing,177,174,42,0,42
+water,7015,Simulation,177,174,42,0,42
+water,7016,Sports,177,174,42,0,42
+water,7017,Strategy,177,174,42,0,42
+water,7018,Trivia,177,174,42,0,42
+water,7019,Word,177,174,42,0,42
+water conservation,6014,Games (primary),162,159,7,4,3
+water conservation,7001,Action,162,159,7,0,7
+water conservation,7002,Adventure,162,159,7,0,7
+water conservation,7003,Arcade,162,159,7,0,7
+water conservation,7004,Board,162,159,7,0,7
+water conservation,7005,Card,162,159,7,0,7
+water conservation,7006,Casino,162,159,7,0,7
+water conservation,7007,Dice,162,159,7,0,7
+water conservation,7008,Educational,162,159,7,0,7
+water conservation,7009,Family,162,159,7,0,7
+water conservation,7010,Kids,162,159,7,0,7
+water conservation,7011,Music,162,159,7,0,7
+water conservation,7012,Puzzle,162,159,7,0,7
+water conservation,7013,Racing,162,159,7,0,7
+water conservation,7014,Role Playing,162,159,7,0,7
+water conservation,7015,Simulation,162,159,7,0,7
+water conservation,7016,Sports,162,159,7,0,7
+water conservation,7017,Strategy,162,159,7,0,7
+water conservation,7018,Trivia,162,159,7,0,7
+water conservation,7019,Word,162,159,7,0,7
+oceans,6014,Games (primary),160,157,51,49,2
+oceans,7001,Action,160,157,51,0,51
+oceans,7002,Adventure,160,157,51,0,51
+oceans,7003,Arcade,160,157,51,0,51
+oceans,7004,Board,160,157,51,0,51
+oceans,7005,Card,160,157,51,0,51
+oceans,7006,Casino,160,157,51,0,51
+oceans,7007,Dice,160,157,51,0,51
+oceans,7008,Educational,160,157,51,0,51
+oceans,7009,Family,160,157,51,0,51
+oceans,7010,Kids,160,157,51,0,51
+oceans,7011,Music,160,157,51,0,51
+oceans,7012,Puzzle,160,157,51,0,51
+oceans,7013,Racing,160,157,51,0,51
+oceans,7014,Role Playing,160,157,51,0,51
+oceans,7015,Simulation,160,157,51,0,51
+oceans,7016,Sports,160,157,51,0,51
+oceans,7017,Strategy,160,157,51,0,51
+oceans,7018,Trivia,160,157,51,0,51
+oceans,7019,Word,160,157,51,0,51
+marine,6014,Games (primary),130,126,10,10,0
+marine,7001,Action,130,126,10,0,10
+marine,7002,Adventure,130,126,10,0,10
+marine,7003,Arcade,130,126,10,0,10
+marine,7004,Board,130,126,10,0,10
+marine,7005,Card,130,126,10,0,10
+marine,7006,Casino,130,126,10,0,10
+marine,7007,Dice,130,126,10,0,10
+marine,7008,Educational,130,126,10,0,10
+marine,7009,Family,130,126,10,0,10
+marine,7010,Kids,130,126,10,0,10
+marine,7011,Music,130,126,10,0,10
+marine,7012,Puzzle,130,126,10,0,10
+marine,7013,Racing,130,126,10,0,10
+marine,7014,Role Playing,130,126,10,0,10
+marine,7015,Simulation,130,126,10,0,10
+marine,7016,Sports,130,126,10,0,10
+marine,7017,Strategy,130,126,10,0,10
+marine,7018,Trivia,130,126,10,0,10
+marine,7019,Word,130,126,10,0,10
+ecosystem,6014,Games (primary),172,162,12,7,5
+ecosystem,7001,Action,172,162,12,0,12
+ecosystem,7002,Adventure,172,162,12,0,12
+ecosystem,7003,Arcade,172,162,12,0,12
+ecosystem,7004,Board,172,162,12,0,12
+ecosystem,7005,Card,172,162,12,0,12
+ecosystem,7006,Casino,172,162,12,0,12
+ecosystem,7007,Dice,172,162,12,0,12
+ecosystem,7008,Educational,172,162,12,0,12
+ecosystem,7009,Family,172,162,12,0,12
+ecosystem,7010,Kids,172,162,12,0,12
+ecosystem,7011,Music,172,162,12,0,12
+ecosystem,7012,Puzzle,172,162,12,0,12
+ecosystem,7013,Racing,172,162,12,0,12
+ecosystem,7014,Role Playing,172,162,12,0,12
+ecosystem,7015,Simulation,172,162,12,0,12
+ecosystem,7016,Sports,172,162,12,0,12
+ecosystem,7017,Strategy,172,162,12,0,12
+ecosystem,7018,Trivia,172,162,12,0,12
+ecosystem,7019,Word,172,162,12,0,12
+habitats,6014,Games (primary),130,103,1,1,0
+habitats,7001,Action,130,103,1,0,1
+habitats,7002,Adventure,130,103,1,0,1
+habitats,7003,Arcade,130,103,1,0,1
+habitats,7004,Board,130,103,1,0,1
+habitats,7005,Card,130,103,1,0,1
+habitats,7006,Casino,130,103,1,0,1
+habitats,7007,Dice,130,103,1,0,1
+habitats,7008,Educational,130,103,1,0,1
+habitats,7009,Family,130,103,1,0,1
+habitats,7010,Kids,130,103,1,0,1
+habitats,7011,Music,130,103,1,0,1
+habitats,7012,Puzzle,130,103,1,0,1
+habitats,7013,Racing,130,103,1,0,1
+habitats,7014,Role Playing,130,103,1,0,1
+habitats,7015,Simulation,130,103,1,0,1
+habitats,7016,Sports,130,103,1,0,1
+habitats,7017,Strategy,130,103,1,0,1
+habitats,7018,Trivia,130,103,1,0,1
+habitats,7019,Word,130,103,1,0,1
+community,6014,Games (primary),143,142,1,1,0
+community,7001,Action,143,142,1,0,1
+community,7002,Adventure,143,142,1,0,1
+community,7003,Arcade,143,142,1,0,1
+community,7004,Board,143,142,1,0,1
+community,7005,Card,143,142,1,0,1
+community,7006,Casino,143,142,1,0,1
+community,7007,Dice,143,142,1,0,1
+community,7008,Educational,143,142,1,0,1
+community,7009,Family,143,142,1,0,1
+community,7010,Kids,143,142,1,0,1
+community,7011,Music,143,142,1,0,1
+community,7012,Puzzle,143,142,1,0,1
+community,7013,Racing,143,142,1,0,1
+community,7014,Role Playing,143,142,1,0,1
+community,7015,Simulation,143,142,1,0,1
+community,7016,Sports,143,142,1,0,1
+community,7017,Strategy,143,142,1,0,1
+community,7018,Trivia,143,142,1,0,1
+community,7019,Word,143,142,1,0,1
+community building,6014,Games (primary),157,156,2,1,1
+community building,7001,Action,157,156,2,0,2
+community building,7002,Adventure,157,156,2,0,2
+community building,7003,Arcade,157,156,2,0,2
+community building,7004,Board,157,156,2,0,2
+community building,7005,Card,157,156,2,0,2
+community building,7006,Casino,157,156,2,0,2
+community building,7007,Dice,157,156,2,0,2
+community building,7008,Educational,157,156,2,0,2
+community building,7009,Family,157,156,2,0,2
+community building,7010,Kids,157,156,2,0,2
+community building,7011,Music,157,156,2,0,2
+community building,7012,Puzzle,157,156,2,0,2
+community building,7013,Racing,157,156,2,0,2
+community building,7014,Role Playing,157,156,2,0,2
+community building,7015,Simulation,157,156,2,0,2
+community building,7016,Sports,157,156,2,0,2
+community building,7017,Strategy,157,156,2,0,2
+community building,7018,Trivia,157,156,2,0,2
+community building,7019,Word,157,156,2,0,2
+cooperation,6014,Games (primary),139,127,0,0,0
+cooperation,7001,Action,139,127,0,0,0
+cooperation,7002,Adventure,139,127,0,0,0
+cooperation,7003,Arcade,139,127,0,0,0
+cooperation,7004,Board,139,127,0,0,0
+cooperation,7005,Card,139,127,0,0,0
+cooperation,7006,Casino,139,127,0,0,0
+cooperation,7007,Dice,139,127,0,0,0
+cooperation,7008,Educational,139,127,0,0,0
+cooperation,7009,Family,139,127,0,0,0
+cooperation,7010,Kids,139,127,0,0,0
+cooperation,7011,Music,139,127,0,0,0
+cooperation,7012,Puzzle,139,127,0,0,0
+cooperation,7013,Racing,139,127,0,0,0
+cooperation,7014,Role Playing,139,127,0,0,0
+cooperation,7015,Simulation,139,127,0,0,0
+cooperation,7016,Sports,139,127,0,0,0
+cooperation,7017,Strategy,139,127,0,0,0
+cooperation,7018,Trivia,139,127,0,0,0
+cooperation,7019,Word,139,127,0,0,0
+teamwork,6014,Games (primary),147,141,2,2,0
+teamwork,7001,Action,147,141,2,0,2
+teamwork,7002,Adventure,147,141,2,0,2
+teamwork,7003,Arcade,147,141,2,0,2
+teamwork,7004,Board,147,141,2,0,2
+teamwork,7005,Card,147,141,2,0,2
+teamwork,7006,Casino,147,141,2,0,2
+teamwork,7007,Dice,147,141,2,0,2
+teamwork,7008,Educational,147,141,2,0,2
+teamwork,7009,Family,147,141,2,0,2
+teamwork,7010,Kids,147,141,2,0,2
+teamwork,7011,Music,147,141,2,0,2
+teamwork,7012,Puzzle,147,141,2,0,2
+teamwork,7013,Racing,147,141,2,0,2
+teamwork,7014,Role Playing,147,141,2,0,2
+teamwork,7015,Simulation,147,141,2,0,2
+teamwork,7016,Sports,147,141,2,0,2
+teamwork,7017,Strategy,147,141,2,0,2
+teamwork,7018,Trivia,147,141,2,0,2
+teamwork,7019,Word,147,141,2,0,2
+participation,6014,Games (primary),142,141,0,0,0
+participation,7001,Action,142,141,0,0,0
+participation,7002,Adventure,142,141,0,0,0
+participation,7003,Arcade,142,141,0,0,0
+participation,7004,Board,142,141,0,0,0
+participation,7005,Card,142,141,0,0,0
+participation,7006,Casino,142,141,0,0,0
+participation,7007,Dice,142,141,0,0,0
+participation,7008,Educational,142,141,0,0,0
+participation,7009,Family,142,141,0,0,0
+participation,7010,Kids,142,141,0,0,0
+participation,7011,Music,142,141,0,0,0
+participation,7012,Puzzle,142,141,0,0,0
+participation,7013,Racing,142,141,0,0,0
+participation,7014,Role Playing,142,141,0,0,0
+participation,7015,Simulation,142,141,0,0,0
+participation,7016,Sports,142,141,0,0,0
+participation,7017,Strategy,142,141,0,0,0
+participation,7018,Trivia,142,141,0,0,0
+participation,7019,Word,142,141,0,0,0
+volunteer,6014,Games (primary),150,145,0,0,0
+volunteer,7001,Action,150,145,0,0,0
+volunteer,7002,Adventure,150,145,0,0,0
+volunteer,7003,Arcade,150,145,0,0,0
+volunteer,7004,Board,150,145,0,0,0
+volunteer,7005,Card,150,145,0,0,0
+volunteer,7006,Casino,150,145,0,0,0
+volunteer,7007,Dice,150,145,0,0,0
+volunteer,7008,Educational,150,145,0,0,0
+volunteer,7009,Family,150,145,0,0,0
+volunteer,7010,Kids,150,145,0,0,0
+volunteer,7011,Music,150,145,0,0,0
+volunteer,7012,Puzzle,150,145,0,0,0
+volunteer,7013,Racing,150,145,0,0,0
+volunteer,7014,Role Playing,150,145,0,0,0
+volunteer,7015,Simulation,150,145,0,0,0
+volunteer,7016,Sports,150,145,0,0,0
+volunteer,7017,Strategy,150,145,0,0,0
+volunteer,7018,Trivia,150,145,0,0,0
+volunteer,7019,Word,150,145,0,0,0
+equality,6014,Games (primary),137,131,13,13,0
+equality,7001,Action,137,131,13,0,13
+equality,7002,Adventure,137,131,13,0,13
+equality,7003,Arcade,137,131,13,0,13
+equality,7004,Board,137,131,13,0,13
+equality,7005,Card,137,131,13,0,13
+equality,7006,Casino,137,131,13,0,13
+equality,7007,Dice,137,131,13,0,13
+equality,7008,Educational,137,131,13,0,13
+equality,7009,Family,137,131,13,0,13
+equality,7010,Kids,137,131,13,0,13
+equality,7011,Music,137,131,13,0,13
+equality,7012,Puzzle,137,131,13,0,13
+equality,7013,Racing,137,131,13,0,13
+equality,7014,Role Playing,137,131,13,0,13
+equality,7015,Simulation,137,131,13,0,13
+equality,7016,Sports,137,131,13,0,13
+equality,7017,Strategy,137,131,13,0,13
+equality,7018,Trivia,137,131,13,0,13
+equality,7019,Word,137,131,13,0,13
+equity,6014,Games (primary),143,141,1,1,0
+equity,7001,Action,143,141,1,0,1
+equity,7002,Adventure,143,141,1,0,1
+equity,7003,Arcade,143,141,1,0,1
+equity,7004,Board,143,141,1,0,1
+equity,7005,Card,143,141,1,0,1
+equity,7006,Casino,143,141,1,0,1
+equity,7007,Dice,143,141,1,0,1
+equity,7008,Educational,143,141,1,0,1
+equity,7009,Family,143,141,1,0,1
+equity,7010,Kids,143,141,1,0,1
+equity,7011,Music,143,141,1,0,1
+equity,7012,Puzzle,143,141,1,0,1
+equity,7013,Racing,143,141,1,0,1
+equity,7014,Role Playing,143,141,1,0,1
+equity,7015,Simulation,143,141,1,0,1
+equity,7016,Sports,143,141,1,0,1
+equity,7017,Strategy,143,141,1,0,1
+equity,7018,Trivia,143,141,1,0,1
+equity,7019,Word,143,141,1,0,1
+inclusion,6014,Games (primary),142,136,23,23,0
+inclusion,7001,Action,142,136,23,0,23
+inclusion,7002,Adventure,142,136,23,0,23
+inclusion,7003,Arcade,142,136,23,0,23
+inclusion,7004,Board,142,136,23,0,23
+inclusion,7005,Card,142,136,23,0,23
+inclusion,7006,Casino,142,136,23,0,23
+inclusion,7007,Dice,142,136,23,0,23
+inclusion,7008,Educational,142,136,23,0,23
+inclusion,7009,Family,142,136,23,0,23
+inclusion,7010,Kids,142,136,23,0,23
+inclusion,7011,Music,142,136,23,0,23
+inclusion,7012,Puzzle,142,136,23,0,23
+inclusion,7013,Racing,142,136,23,0,23
+inclusion,7014,Role Playing,142,136,23,0,23
+inclusion,7015,Simulation,142,136,23,0,23
+inclusion,7016,Sports,142,136,23,0,23
+inclusion,7017,Strategy,142,136,23,0,23
+inclusion,7018,Trivia,142,136,23,0,23
+inclusion,7019,Word,142,136,23,0,23
+human rights,6014,Games (primary),148,145,4,4,0
+human rights,7001,Action,148,145,4,0,4
+human rights,7002,Adventure,148,145,4,0,4
+human rights,7003,Arcade,148,145,4,0,4
+human rights,7004,Board,148,145,4,0,4
+human rights,7005,Card,148,145,4,0,4
+human rights,7006,Casino,148,145,4,0,4
+human rights,7007,Dice,148,145,4,0,4
+human rights,7008,Educational,148,145,4,0,4
+human rights,7009,Family,148,145,4,0,4
+human rights,7010,Kids,148,145,4,0,4
+human rights,7011,Music,148,145,4,0,4
+human rights,7012,Puzzle,148,145,4,0,4
+human rights,7013,Racing,148,145,4,0,4
+human rights,7014,Role Playing,148,145,4,0,4
+human rights,7015,Simulation,148,145,4,0,4
+human rights,7016,Sports,148,145,4,0,4
+human rights,7017,Strategy,148,145,4,0,4
+human rights,7018,Trivia,148,145,4,0,4
+human rights,7019,Word,148,145,4,0,4
+social justice,6014,Games (primary),163,162,3,3,0
+social justice,7001,Action,163,162,3,0,3
+social justice,7002,Adventure,163,162,3,0,3
+social justice,7003,Arcade,163,162,3,0,3
+social justice,7004,Board,163,162,3,0,3
+social justice,7005,Card,163,162,3,0,3
+social justice,7006,Casino,163,162,3,0,3
+social justice,7007,Dice,163,162,3,0,3
+social justice,7008,Educational,163,162,3,0,3
+social justice,7009,Family,163,162,3,0,3
+social justice,7010,Kids,163,162,3,0,3
+social justice,7011,Music,163,162,3,0,3
+social justice,7012,Puzzle,163,162,3,0,3
+social justice,7013,Racing,163,162,3,0,3
+social justice,7014,Role Playing,163,162,3,0,3
+social justice,7015,Simulation,163,162,3,0,3
+social justice,7016,Sports,163,162,3,0,3
+social justice,7017,Strategy,163,162,3,0,3
+social justice,7018,Trivia,163,162,3,0,3
+social justice,7019,Word,163,162,3,0,3
+fairness,6014,Games (primary),55,55,4,3,1
+fairness,7001,Action,55,55,4,0,4
+fairness,7002,Adventure,55,55,4,0,4
+fairness,7003,Arcade,55,55,4,0,4
+fairness,7004,Board,55,55,4,0,4
+fairness,7005,Card,55,55,4,0,4
+fairness,7006,Casino,55,55,4,0,4
+fairness,7007,Dice,55,55,4,0,4
+fairness,7008,Educational,55,55,4,0,4
+fairness,7009,Family,55,55,4,0,4
+fairness,7010,Kids,55,55,4,0,4
+fairness,7011,Music,55,55,4,0,4
+fairness,7012,Puzzle,55,55,4,0,4
+fairness,7013,Racing,55,55,4,0,4
+fairness,7014,Role Playing,55,55,4,0,4
+fairness,7015,Simulation,55,55,4,0,4
+fairness,7016,Sports,55,55,4,0,4
+fairness,7017,Strategy,55,55,4,0,4
+fairness,7018,Trivia,55,55,4,0,4
+fairness,7019,Word,55,55,4,0,4
+wellbeing,6014,Games (primary),174,172,0,0,0
+wellbeing,7001,Action,173,171,0,0,0
+wellbeing,7002,Adventure,173,171,0,0,0
+wellbeing,7003,Arcade,173,171,0,0,0
+wellbeing,7004,Board,174,172,0,0,0
+wellbeing,7005,Card,173,171,0,0,0
+wellbeing,7006,Casino,173,171,0,0,0
+wellbeing,7007,Dice,173,171,0,0,0
+wellbeing,7008,Educational,173,171,0,0,0
+wellbeing,7009,Family,173,171,0,0,0
+wellbeing,7010,Kids,173,171,0,0,0
+wellbeing,7011,Music,173,171,0,0,0
+wellbeing,7012,Puzzle,173,171,0,0,0
+wellbeing,7013,Racing,174,172,0,0,0
+wellbeing,7014,Role Playing,173,171,0,0,0
+wellbeing,7015,Simulation,173,171,0,0,0
+wellbeing,7016,Sports,173,171,0,0,0
+wellbeing,7017,Strategy,174,172,0,0,0
+wellbeing,7018,Trivia,173,171,0,0,0
+wellbeing,7019,Word,173,171,0,0,0
+public health,6014,Games (primary),143,143,1,1,0
+public health,7001,Action,143,143,1,0,1
+public health,7002,Adventure,143,143,1,0,1
+public health,7003,Arcade,143,143,1,0,1
+public health,7004,Board,143,143,1,0,1
+public health,7005,Card,143,143,1,0,1
+public health,7006,Casino,143,143,1,0,1
+public health,7007,Dice,143,143,1,0,1
+public health,7008,Educational,143,143,1,0,1
+public health,7009,Family,143,143,1,0,1
+public health,7010,Kids,143,143,1,0,1
+public health,7011,Music,143,143,1,0,1
+public health,7012,Puzzle,143,143,1,0,1
+public health,7013,Racing,143,143,1,0,1
+public health,7014,Role Playing,143,143,1,0,1
+public health,7015,Simulation,143,143,1,0,1
+public health,7016,Sports,143,143,1,0,1
+public health,7017,Strategy,143,143,1,0,1
+public health,7018,Trivia,143,143,1,0,1
+public health,7019,Word,143,143,1,0,1
+sustainable city,6014,Games (primary),159,158,20,13,7
+sustainable city,7001,Action,159,158,20,0,20
+sustainable city,7002,Adventure,159,158,20,0,20
+sustainable city,7003,Arcade,159,158,20,0,20
+sustainable city,7004,Board,159,158,20,0,20
+sustainable city,7005,Card,159,158,20,0,20
+sustainable city,7006,Casino,159,158,20,0,20
+sustainable city,7007,Dice,159,158,20,0,20
+sustainable city,7008,Educational,159,158,20,0,20
+sustainable city,7009,Family,159,158,20,0,20
+sustainable city,7010,Kids,159,158,20,0,20
+sustainable city,7011,Music,159,158,20,0,20
+sustainable city,7012,Puzzle,159,158,20,0,20
+sustainable city,7013,Racing,159,158,20,0,20
+sustainable city,7014,Role Playing,159,158,20,0,20
+sustainable city,7015,Simulation,159,158,20,0,20
+sustainable city,7016,Sports,159,158,20,0,20
+sustainable city,7017,Strategy,159,158,20,0,20
+sustainable city,7018,Trivia,159,158,20,0,20
+sustainable city,7019,Word,159,158,20,0,20
+eco city,6014,Games (primary),151,151,85,63,22
+eco city,7001,Action,151,151,85,0,85
+eco city,7002,Adventure,151,151,85,0,85
+eco city,7003,Arcade,151,151,85,0,85
+eco city,7004,Board,151,151,85,0,85
+eco city,7005,Card,151,151,85,0,85
+eco city,7006,Casino,151,151,85,0,85
+eco city,7007,Dice,151,151,85,0,85
+eco city,7008,Educational,151,151,85,0,85
+eco city,7009,Family,151,151,85,0,85
+eco city,7010,Kids,151,151,85,0,85
+eco city,7011,Music,151,151,85,0,85
+eco city,7012,Puzzle,151,151,85,0,85
+eco city,7013,Racing,151,151,85,0,85
+eco city,7014,Role Playing,151,151,85,0,85
+eco city,7015,Simulation,151,151,85,0,85
+eco city,7016,Sports,151,151,85,0,85
+eco city,7017,Strategy,151,151,85,0,85
+eco city,7018,Trivia,151,151,85,0,85
+eco city,7019,Word,151,151,85,0,85
+urban planning,6014,Games (primary),152,150,40,16,24
+urban planning,7001,Action,152,150,40,0,40
+urban planning,7002,Adventure,152,150,40,0,40
+urban planning,7003,Arcade,152,150,40,0,40
+urban planning,7004,Board,152,150,40,0,40
+urban planning,7005,Card,152,150,40,0,40
+urban planning,7006,Casino,152,150,40,0,40
+urban planning,7007,Dice,152,150,40,0,40
+urban planning,7008,Educational,152,150,40,0,40
+urban planning,7009,Family,152,150,40,0,40
+urban planning,7010,Kids,152,150,40,0,40
+urban planning,7011,Music,152,150,40,0,40
+urban planning,7012,Puzzle,152,150,40,0,40
+urban planning,7013,Racing,152,150,40,0,40
+urban planning,7014,Role Playing,152,150,40,0,40
+urban planning,7015,Simulation,152,150,40,0,40
+urban planning,7016,Sports,152,150,40,0,40
+urban planning,7017,Strategy,152,150,40,0,40
+urban planning,7018,Trivia,152,150,40,0,40
+urban planning,7019,Word,152,150,40,0,40
+sustainable mobility,6014,Games (primary),179,177,2,0,2
+sustainable mobility,7001,Action,179,177,2,0,2
+sustainable mobility,7002,Adventure,179,177,2,0,2
+sustainable mobility,7003,Arcade,179,177,2,0,2
+sustainable mobility,7004,Board,179,177,2,0,2
+sustainable mobility,7005,Card,179,177,2,0,2
+sustainable mobility,7006,Casino,179,177,2,0,2
+sustainable mobility,7007,Dice,179,177,2,0,2
+sustainable mobility,7008,Educational,179,177,2,0,2
+sustainable mobility,7009,Family,179,177,2,0,2
+sustainable mobility,7010,Kids,179,177,2,0,2
+sustainable mobility,7011,Music,179,177,2,0,2
+sustainable mobility,7012,Puzzle,179,177,2,0,2
+sustainable mobility,7013,Racing,179,177,2,0,2
+sustainable mobility,7014,Role Playing,179,177,2,0,2
+sustainable mobility,7015,Simulation,179,177,2,0,2
+sustainable mobility,7016,Sports,179,177,2,0,2
+sustainable mobility,7017,Strategy,179,177,2,0,2
+sustainable mobility,7018,Trivia,179,177,2,0,2
+sustainable mobility,7019,Word,179,177,2,0,2
+public transport,6014,Games (primary),184,180,8,8,0
+public transport,7001,Action,184,180,8,0,8
+public transport,7002,Adventure,184,180,8,0,8
+public transport,7003,Arcade,184,180,8,0,8
+public transport,7004,Board,184,180,8,0,8
+public transport,7005,Card,185,181,8,0,8
+public transport,7006,Casino,185,181,8,0,8
+public transport,7007,Dice,184,180,8,0,8
+public transport,7008,Educational,184,180,8,0,8
+public transport,7009,Family,184,180,8,0,8
+public transport,7010,Kids,184,180,8,0,8
+public transport,7011,Music,184,180,8,0,8
+public transport,7012,Puzzle,184,180,8,0,8
+public transport,7013,Racing,184,180,8,0,8
+public transport,7014,Role Playing,185,181,8,0,8
+public transport,7015,Simulation,184,180,8,0,8
+public transport,7016,Sports,184,180,8,0,8
+public transport,7017,Strategy,184,180,8,0,8
+public transport,7018,Trivia,184,180,8,0,8
+public transport,7019,Word,184,180,8,0,8
+green transport,6014,Games (primary),179,178,1,0,1
+green transport,7001,Action,179,178,1,0,1
+green transport,7002,Adventure,179,178,1,0,1
+green transport,7003,Arcade,179,178,1,0,1
+green transport,7004,Board,179,178,1,0,1
+green transport,7005,Card,179,178,1,0,1
+green transport,7006,Casino,179,178,1,0,1
+green transport,7007,Dice,179,178,1,0,1
+green transport,7008,Educational,179,178,1,0,1
+green transport,7009,Family,179,178,1,0,1
+green transport,7010,Kids,179,178,1,0,1
+green transport,7011,Music,179,178,1,0,1
+green transport,7012,Puzzle,179,178,1,0,1
+green transport,7013,Racing,179,178,1,0,1
+green transport,7014,Role Playing,179,178,1,0,1
+green transport,7015,Simulation,179,178,1,0,1
+green transport,7016,Sports,179,178,1,0,1
+green transport,7017,Strategy,179,178,1,0,1
+green transport,7018,Trivia,179,178,1,0,1
+green transport,7019,Word,179,178,1,0,1
+circular economy,6014,Games (primary),182,179,7,5,2
+circular economy,7001,Action,182,179,7,0,7
+circular economy,7002,Adventure,182,179,7,0,7
+circular economy,7003,Arcade,182,179,7,0,7
+circular economy,7004,Board,182,179,7,0,7
+circular economy,7005,Card,182,179,7,0,7
+circular economy,7006,Casino,182,179,7,0,7
+circular economy,7007,Dice,182,179,7,0,7
+circular economy,7008,Educational,182,179,7,0,7
+circular economy,7009,Family,182,179,7,0,7
+circular economy,7010,Kids,182,179,7,0,7
+circular economy,7011,Music,182,179,7,0,7
+circular economy,7012,Puzzle,182,179,7,0,7
+circular economy,7013,Racing,182,179,7,0,7
+circular economy,7014,Role Playing,182,179,7,0,7
+circular economy,7015,Simulation,182,179,7,0,7
+circular economy,7016,Sports,182,179,7,0,7
+circular economy,7017,Strategy,182,179,7,0,7
+circular economy,7018,Trivia,182,179,7,0,7
+circular economy,7019,Word,182,179,7,0,7
+sustainability economy,6014,Games (primary),180,177,1,0,1
+sustainability economy,7001,Action,180,177,1,0,1
+sustainability economy,7002,Adventure,180,177,1,0,1
+sustainability economy,7003,Arcade,180,177,1,0,1
+sustainability economy,7004,Board,180,177,1,0,1
+sustainability economy,7005,Card,180,177,1,0,1
+sustainability economy,7006,Casino,180,177,1,0,1
+sustainability economy,7007,Dice,180,177,1,0,1
+sustainability economy,7008,Educational,180,177,1,0,1
+sustainability economy,7009,Family,180,177,1,0,1
+sustainability economy,7010,Kids,180,177,1,0,1
+sustainability economy,7011,Music,180,177,1,0,1
+sustainability economy,7012,Puzzle,180,177,1,0,1
+sustainability economy,7013,Racing,180,177,1,0,1
+sustainability economy,7014,Role Playing,180,177,1,0,1
+sustainability economy,7015,Simulation,180,177,1,0,1
+sustainability economy,7016,Sports,180,177,1,0,1
+sustainability economy,7017,Strategy,180,177,1,0,1
+sustainability economy,7018,Trivia,180,177,1,0,1
+sustainability economy,7019,Word,180,177,1,0,1
+sustainable economy,6014,Games (primary),178,176,2,1,1
+sustainable economy,7001,Action,178,176,2,0,2
+sustainable economy,7002,Adventure,178,176,2,0,2
+sustainable economy,7003,Arcade,178,176,2,0,2
+sustainable economy,7004,Board,178,176,2,0,2
+sustainable economy,7005,Card,178,176,2,0,2
+sustainable economy,7006,Casino,178,176,2,0,2
+sustainable economy,7007,Dice,178,176,2,0,2
+sustainable economy,7008,Educational,178,176,2,0,2
+sustainable economy,7009,Family,178,176,2,0,2
+sustainable economy,7010,Kids,178,176,2,0,2
+sustainable economy,7011,Music,178,176,2,0,2
+sustainable economy,7012,Puzzle,178,176,2,0,2
+sustainable economy,7013,Racing,178,176,2,0,2
+sustainable economy,7014,Role Playing,178,176,2,0,2
+sustainable economy,7015,Simulation,178,176,2,0,2
+sustainable economy,7016,Sports,178,176,2,0,2
+sustainable economy,7017,Strategy,178,176,2,0,2
+sustainable economy,7018,Trivia,178,176,2,0,2
+sustainable economy,7019,Word,178,176,2,0,2
+responsible production,6014,Games (primary),153,146,0,0,0
+responsible production,7001,Action,153,146,0,0,0
+responsible production,7002,Adventure,153,146,0,0,0
+responsible production,7003,Arcade,153,146,0,0,0
+responsible production,7004,Board,153,146,0,0,0
+responsible production,7005,Card,153,146,0,0,0
+responsible production,7006,Casino,153,146,0,0,0
+responsible production,7007,Dice,153,146,0,0,0
+responsible production,7008,Educational,153,146,0,0,0
+responsible production,7009,Family,153,146,0,0,0
+responsible production,7010,Kids,153,146,0,0,0
+responsible production,7011,Music,153,146,0,0,0
+responsible production,7012,Puzzle,153,146,0,0,0
+responsible production,7013,Racing,153,146,0,0,0
+responsible production,7014,Role Playing,153,146,0,0,0
+responsible production,7015,Simulation,153,146,0,0,0
+responsible production,7016,Sports,153,146,0,0,0
+responsible production,7017,Strategy,153,146,0,0,0
+responsible production,7018,Trivia,153,146,0,0,0
+responsible production,7019,Word,153,146,0,0,0
+sustainable consumption,6014,Games (primary),179,176,0,0,0
+sustainable consumption,7001,Action,179,176,0,0,0
+sustainable consumption,7002,Adventure,179,176,0,0,0
+sustainable consumption,7003,Arcade,179,176,0,0,0
+sustainable consumption,7004,Board,179,176,0,0,0
+sustainable consumption,7005,Card,179,176,0,0,0
+sustainable consumption,7006,Casino,179,176,0,0,0
+sustainable consumption,7007,Dice,179,176,0,0,0
+sustainable consumption,7008,Educational,179,176,0,0,0
+sustainable consumption,7009,Family,179,176,0,0,0
+sustainable consumption,7010,Kids,179,176,0,0,0
+sustainable consumption,7011,Music,179,176,0,0,0
+sustainable consumption,7012,Puzzle,179,176,0,0,0
+sustainable consumption,7013,Racing,179,176,0,0,0
+sustainable consumption,7014,Role Playing,179,176,0,0,0
+sustainable consumption,7015,Simulation,179,176,0,0,0
+sustainable consumption,7016,Sports,179,176,0,0,0
+sustainable consumption,7017,Strategy,179,176,0,0,0
+sustainable consumption,7018,Trivia,179,176,0,0,0
+sustainable consumption,7019,Word,179,176,0,0,0
+sustainable lifestyle,6014,Games (primary),176,172,0,0,0
+sustainable lifestyle,7001,Action,176,172,0,0,0
+sustainable lifestyle,7002,Adventure,176,172,0,0,0
+sustainable lifestyle,7003,Arcade,176,172,0,0,0
+sustainable lifestyle,7004,Board,176,172,0,0,0
+sustainable lifestyle,7005,Card,176,172,0,0,0
+sustainable lifestyle,7006,Casino,176,172,0,0,0
+sustainable lifestyle,7007,Dice,176,172,0,0,0
+sustainable lifestyle,7008,Educational,176,172,0,0,0
+sustainable lifestyle,7009,Family,176,172,0,0,0
+sustainable lifestyle,7010,Kids,176,172,0,0,0
+sustainable lifestyle,7011,Music,176,172,0,0,0
+sustainable lifestyle,7012,Puzzle,176,172,0,0,0
+sustainable lifestyle,7013,Racing,176,172,0,0,0
+sustainable lifestyle,7014,Role Playing,176,172,0,0,0
+sustainable lifestyle,7015,Simulation,176,172,0,0,0
+sustainable lifestyle,7016,Sports,176,172,0,0,0
+sustainable lifestyle,7017,Strategy,176,172,0,0,0
+sustainable lifestyle,7018,Trivia,176,172,0,0,0
+sustainable lifestyle,7019,Word,176,172,0,0,0
+fair trade,6014,Games (primary),144,142,1,1,0
+fair trade,7001,Action,144,142,1,0,1
+fair trade,7002,Adventure,144,142,1,0,1
+fair trade,7003,Arcade,144,142,1,0,1
+fair trade,7004,Board,144,142,1,0,1
+fair trade,7005,Card,144,142,1,0,1
+fair trade,7006,Casino,144,142,1,0,1
+fair trade,7007,Dice,144,142,1,0,1
+fair trade,7008,Educational,144,142,1,0,1
+fair trade,7009,Family,144,142,1,0,1
+fair trade,7010,Kids,144,142,1,0,1
+fair trade,7011,Music,144,142,1,0,1
+fair trade,7012,Puzzle,144,142,1,0,1
+fair trade,7013,Racing,144,142,1,0,1
+fair trade,7014,Role Playing,144,142,1,0,1
+fair trade,7015,Simulation,144,142,1,0,1
+fair trade,7016,Sports,144,142,1,0,1
+fair trade,7017,Strategy,144,142,1,0,1
+fair trade,7018,Trivia,144,142,1,0,1
+fair trade,7019,Word,144,142,1,0,1
+energy management,6014,Games (primary),170,162,3,1,2
+energy management,7001,Action,170,162,3,0,3
+energy management,7002,Adventure,170,162,3,0,3
+energy management,7003,Arcade,170,162,3,0,3
+energy management,7004,Board,170,162,3,0,3
+energy management,7005,Card,170,162,3,0,3
+energy management,7006,Casino,170,162,3,0,3
+energy management,7007,Dice,170,162,3,0,3
+energy management,7008,Educational,170,162,3,0,3
+energy management,7009,Family,170,162,3,0,3
+energy management,7010,Kids,170,162,3,0,3
+energy management,7011,Music,170,162,3,0,3
+energy management,7012,Puzzle,170,162,3,0,3
+energy management,7013,Racing,170,162,3,0,3
+energy management,7014,Role Playing,170,162,3,0,3
+energy management,7015,Simulation,170,162,3,0,3
+energy management,7016,Sports,170,162,3,0,3
+energy management,7017,Strategy,170,162,3,0,3
+energy management,7018,Trivia,170,162,3,0,3
+energy management,7019,Word,170,162,3,0,3
+resource efficiency,6014,Games (primary),185,177,3,2,1
+resource efficiency,7001,Action,185,177,3,0,3
+resource efficiency,7002,Adventure,185,177,3,0,3
+resource efficiency,7003,Arcade,185,177,3,0,3
+resource efficiency,7004,Board,185,177,3,0,3
+resource efficiency,7005,Card,185,177,3,0,3
+resource efficiency,7006,Casino,185,177,3,0,3
+resource efficiency,7007,Dice,185,177,3,0,3
+resource efficiency,7008,Educational,185,177,3,0,3
+resource efficiency,7009,Family,185,177,3,0,3
+resource efficiency,7010,Kids,185,177,3,0,3
+resource efficiency,7011,Music,185,177,3,0,3
+resource efficiency,7012,Puzzle,185,177,3,0,3
+resource efficiency,7013,Racing,185,177,3,0,3
+resource efficiency,7014,Role Playing,185,177,3,0,3
+resource efficiency,7015,Simulation,185,177,3,0,3
+resource efficiency,7016,Sports,185,177,3,0,3
+resource efficiency,7017,Strategy,185,177,3,0,3
+resource efficiency,7018,Trivia,185,177,3,0,3
+resource efficiency,7019,Word,185,177,3,0,3
+resource management,6014,Games (primary),178,167,8,0,8
+resource management,7001,Action,178,167,8,0,8
+resource management,7002,Adventure,178,167,8,0,8
+resource management,7003,Arcade,178,167,8,0,8
+resource management,7004,Board,178,167,8,0,8
+resource management,7005,Card,178,167,8,0,8
+resource management,7006,Casino,178,167,8,0,8
+resource management,7007,Dice,178,167,8,0,8
+resource management,7008,Educational,178,167,8,0,8
+resource management,7009,Family,178,167,8,0,8
+resource management,7010,Kids,178,167,8,0,8
+resource management,7011,Music,178,167,8,0,8
+resource management,7012,Puzzle,178,167,8,0,8
+resource management,7013,Racing,178,167,8,0,8
+resource management,7014,Role Playing,178,167,8,0,8
+resource management,7015,Simulation,178,167,8,0,8
+resource management,7016,Sports,178,167,8,0,8
+resource management,7017,Strategy,178,167,8,0,8
+resource management,7018,Trivia,178,167,8,0,8
+resource management,7019,Word,178,167,8,0,8
+green business,6014,Games (primary),135,130,3,0,3
+green business,7001,Action,135,130,3,0,3
+green business,7002,Adventure,135,130,3,0,3
+green business,7003,Arcade,135,130,3,0,3
+green business,7004,Board,135,130,3,0,3
+green business,7005,Card,135,130,3,0,3
+green business,7006,Casino,135,130,3,0,3
+green business,7007,Dice,135,130,3,0,3
+green business,7008,Educational,135,130,3,0,3
+green business,7009,Family,135,130,3,0,3
+green business,7010,Kids,135,130,3,0,3
+green business,7011,Music,135,130,3,0,3
+green business,7012,Puzzle,135,130,3,0,3
+green business,7013,Racing,135,130,3,0,3
+green business,7014,Role Playing,135,130,3,0,3
+green business,7015,Simulation,135,130,3,0,3
+green business,7016,Sports,135,130,3,0,3
+green business,7017,Strategy,135,130,3,0,3
+green business,7018,Trivia,135,130,3,0,3
+green business,7019,Word,135,130,3,0,3
+sustainable finance,6014,Games (primary),173,172,0,0,0
+sustainable finance,7001,Action,173,172,0,0,0
+sustainable finance,7002,Adventure,173,172,0,0,0
+sustainable finance,7003,Arcade,173,172,0,0,0
+sustainable finance,7004,Board,173,172,0,0,0
+sustainable finance,7005,Card,173,172,0,0,0
+sustainable finance,7006,Casino,173,172,0,0,0
+sustainable finance,7007,Dice,173,172,0,0,0
+sustainable finance,7008,Educational,173,172,0,0,0
+sustainable finance,7009,Family,173,172,0,0,0
+sustainable finance,7010,Kids,173,172,0,0,0
+sustainable finance,7011,Music,173,172,0,0,0
+sustainable finance,7012,Puzzle,173,172,0,0,0
+sustainable finance,7013,Racing,173,172,0,0,0
+sustainable finance,7014,Role Playing,173,172,0,0,0
+sustainable finance,7015,Simulation,173,172,0,0,0
+sustainable finance,7016,Sports,173,172,0,0,0
+sustainable finance,7017,Strategy,173,172,0,0,0
+sustainable finance,7018,Trivia,173,172,0,0,0
+sustainable finance,7019,Word,173,172,0,0,0
+education,6014,Games (primary),180,177,6,6,0
+education,7001,Action,180,177,6,0,6
+education,7002,Adventure,180,177,6,0,6
+education,7003,Arcade,180,177,6,0,6
+education,7004,Board,180,177,6,0,6
+education,7005,Card,180,177,6,0,6
+education,7006,Casino,180,177,6,0,6
+education,7007,Dice,180,177,6,0,6
+education,7008,Educational,180,177,6,0,6
+education,7009,Family,180,177,6,0,6
+education,7010,Kids,180,177,6,0,6
+education,7011,Music,180,177,6,0,6
+education,7012,Puzzle,180,177,6,0,6
+education,7013,Racing,180,177,6,0,6
+education,7014,Role Playing,180,177,6,0,6
+education,7015,Simulation,180,177,6,0,6
+education,7016,Sports,180,177,6,0,6
+education,7017,Strategy,180,177,6,0,6
+education,7018,Trivia,180,177,6,0,6
+education,7019,Word,180,177,6,0,6
+educational,6014,Games (primary),176,172,15,10,5
+educational,7001,Action,176,172,15,0,15
+educational,7002,Adventure,176,172,15,0,15
+educational,7003,Arcade,176,172,15,0,15
+educational,7004,Board,176,172,15,0,15
+educational,7005,Card,176,172,15,0,15
+educational,7006,Casino,176,172,15,0,15
+educational,7007,Dice,176,172,15,0,15
+educational,7008,Educational,176,172,15,0,15
+educational,7009,Family,176,172,15,0,15
+educational,7010,Kids,176,172,15,0,15
+educational,7011,Music,176,172,15,0,15
+educational,7012,Puzzle,176,172,15,0,15
+educational,7013,Racing,176,172,15,0,15
+educational,7014,Role Playing,176,172,15,0,15
+educational,7015,Simulation,176,172,15,0,15
+educational,7016,Sports,176,172,15,0,15
+educational,7017,Strategy,176,172,15,0,15
+educational,7018,Trivia,176,172,15,0,15
+educational,7019,Word,176,172,15,0,15
+learning,6014,Games (primary),183,182,8,6,2
+learning,7001,Action,183,182,8,0,8
+learning,7002,Adventure,183,182,8,0,8
+learning,7003,Arcade,183,182,8,0,8
+learning,7004,Board,183,182,8,0,8
+learning,7005,Card,183,182,8,0,8
+learning,7006,Casino,183,182,8,0,8
+learning,7007,Dice,183,182,8,0,8
+learning,7008,Educational,183,182,8,0,8
+learning,7009,Family,183,182,8,0,8
+learning,7010,Kids,183,182,8,0,8
+learning,7011,Music,183,182,8,0,8
+learning,7012,Puzzle,183,182,8,0,8
+learning,7013,Racing,183,182,8,0,8
+learning,7014,Role Playing,183,182,8,0,8
+learning,7015,Simulation,183,182,8,0,8
+learning,7016,Sports,183,182,8,0,8
+learning,7017,Strategy,183,182,8,0,8
+learning,7018,Trivia,183,182,8,0,8
+learning,7019,Word,183,182,8,0,8
+learn sustainability,6014,Games (primary),174,167,7,3,4
+learn sustainability,7001,Action,174,167,7,0,7
+learn sustainability,7002,Adventure,174,167,7,0,7
+learn sustainability,7003,Arcade,174,167,7,0,7
+learn sustainability,7004,Board,174,167,7,0,7
+learn sustainability,7005,Card,174,167,7,0,7
+learn sustainability,7006,Casino,174,167,7,0,7
+learn sustainability,7007,Dice,174,167,7,0,7
+learn sustainability,7008,Educational,174,167,7,0,7
+learn sustainability,7009,Family,174,167,7,0,7
+learn sustainability,7010,Kids,174,167,7,0,7
+learn sustainability,7011,Music,174,167,7,0,7
+learn sustainability,7012,Puzzle,174,167,7,0,7
+learn sustainability,7013,Racing,174,167,7,0,7
+learn sustainability,7014,Role Playing,174,167,7,0,7
+learn sustainability,7015,Simulation,174,167,7,0,7
+learn sustainability,7016,Sports,174,167,7,0,7
+learn sustainability,7017,Strategy,174,167,7,0,7
+learn sustainability,7018,Trivia,174,167,7,0,7
+learn sustainability,7019,Word,174,167,7,0,7
+learning game,6014,Games (primary),190,190,31,22,9
+learning game,7001,Action,190,190,31,0,31
+learning game,7002,Adventure,190,190,31,0,31
+learning game,7003,Arcade,190,190,31,0,31
+learning game,7004,Board,190,190,31,0,31
+learning game,7005,Card,190,190,31,0,31
+learning game,7006,Casino,190,190,31,0,31
+learning game,7007,Dice,190,190,31,0,31
+learning game,7008,Educational,190,190,31,0,31
+learning game,7009,Family,190,190,31,0,31
+learning game,7010,Kids,190,190,31,0,31
+learning game,7011,Music,190,190,31,0,31
+learning game,7012,Puzzle,190,190,31,0,31
+learning game,7013,Racing,190,190,31,0,31
+learning game,7014,Role Playing,190,190,31,0,31
+learning game,7015,Simulation,190,190,31,0,31
+learning game,7016,Sports,190,190,31,0,31
+learning game,7017,Strategy,190,190,31,0,31
+learning game,7018,Trivia,190,190,31,0,31
+learning game,7019,Word,190,190,31,0,31
+teaching,6014,Games (primary),146,141,3,3,0
+teaching,7001,Action,146,141,3,0,3
+teaching,7002,Adventure,146,141,3,0,3
+teaching,7003,Arcade,146,141,3,0,3
+teaching,7004,Board,146,141,3,0,3
+teaching,7005,Card,146,141,3,0,3
+teaching,7006,Casino,146,141,3,0,3
+teaching,7007,Dice,146,141,3,0,3
+teaching,7008,Educational,146,141,3,0,3
+teaching,7009,Family,146,141,3,0,3
+teaching,7010,Kids,146,141,3,0,3
+teaching,7011,Music,146,141,3,0,3
+teaching,7012,Puzzle,146,141,3,0,3
+teaching,7013,Racing,146,141,3,0,3
+teaching,7014,Role Playing,146,141,3,0,3
+teaching,7015,Simulation,146,141,3,0,3
+teaching,7016,Sports,146,141,3,0,3
+teaching,7017,Strategy,146,141,3,0,3
+teaching,7018,Trivia,146,141,3,0,3
+teaching,7019,Word,146,141,3,0,3
+teaching sustainability,6014,Games (primary),175,172,12,6,6
+teaching sustainability,7001,Action,175,172,12,0,12
+teaching sustainability,7002,Adventure,175,172,12,0,12
+teaching sustainability,7003,Arcade,175,172,12,0,12
+teaching sustainability,7004,Board,175,172,12,0,12
+teaching sustainability,7005,Card,175,172,12,0,12
+teaching sustainability,7006,Casino,175,172,12,0,12
+teaching sustainability,7007,Dice,175,172,12,0,12
+teaching sustainability,7008,Educational,175,172,12,0,12
+teaching sustainability,7009,Family,175,172,12,0,12
+teaching sustainability,7010,Kids,175,172,12,0,12
+teaching sustainability,7011,Music,175,172,12,0,12
+teaching sustainability,7012,Puzzle,175,172,12,0,12
+teaching sustainability,7013,Racing,175,172,12,0,12
+teaching sustainability,7014,Role Playing,175,172,12,0,12
+teaching sustainability,7015,Simulation,175,172,12,0,12
+teaching sustainability,7016,Sports,175,172,12,0,12
+teaching sustainability,7017,Strategy,175,172,12,0,12
+teaching sustainability,7018,Trivia,175,172,12,0,12
+teaching sustainability,7019,Word,175,172,12,0,12
+edugame,6014,Games (primary),194,185,0,0,0
+edugame,7001,Action,194,185,0,0,0
+edugame,7002,Adventure,194,185,0,0,0
+edugame,7003,Arcade,194,185,0,0,0
+edugame,7004,Board,194,185,0,0,0
+edugame,7005,Card,194,185,0,0,0
+edugame,7006,Casino,194,185,0,0,0
+edugame,7007,Dice,194,185,0,0,0
+edugame,7008,Educational,194,185,0,0,0
+edugame,7009,Family,194,185,0,0,0
+edugame,7010,Kids,194,185,0,0,0
+edugame,7011,Music,194,185,0,0,0
+edugame,7012,Puzzle,194,185,0,0,0
+edugame,7013,Racing,194,185,0,0,0
+edugame,7014,Role Playing,194,185,0,0,0
+edugame,7015,Simulation,194,185,0,0,0
+edugame,7016,Sports,194,185,0,0,0
+edugame,7017,Strategy,194,185,0,0,0
+edugame,7018,Trivia,194,185,0,0,0
+edugame,7019,Word,194,185,0,0,0
+climate education,6014,Games (primary),174,172,13,1,12
+climate education,7001,Action,174,172,13,0,13
+climate education,7002,Adventure,174,172,13,0,13
+climate education,7003,Arcade,174,172,13,0,13
+climate education,7004,Board,174,172,13,0,13
+climate education,7005,Card,174,172,13,0,13
+climate education,7006,Casino,174,172,13,0,13
+climate education,7007,Dice,174,172,13,0,13
+climate education,7008,Educational,174,172,13,0,13
+climate education,7009,Family,174,172,13,0,13
+climate education,7010,Kids,174,172,13,0,13
+climate education,7011,Music,174,172,13,0,13
+climate education,7012,Puzzle,174,172,13,0,13
+climate education,7013,Racing,174,172,13,0,13
+climate education,7014,Role Playing,174,172,13,0,13
+climate education,7015,Simulation,174,172,13,0,13
+climate education,7016,Sports,174,172,13,0,13
+climate education,7017,Strategy,174,172,13,0,13
+climate education,7018,Trivia,174,172,13,0,13
+climate education,7019,Word,174,172,13,0,13
+serious game,6014,Games (primary),132,129,116,114,2
+serious game,7001,Action,132,129,116,0,116
+serious game,7002,Adventure,132,129,116,0,116
+serious game,7003,Arcade,132,129,116,0,116
+serious game,7004,Board,132,129,116,0,116
+serious game,7005,Card,133,130,118,8,110
+serious game,7006,Casino,133,130,118,0,118
+serious game,7007,Dice,133,130,118,0,118
+serious game,7008,Educational,132,129,116,0,116
+serious game,7009,Family,132,129,116,0,116
+serious game,7010,Kids,132,129,116,0,116
+serious game,7011,Music,132,129,116,0,116
+serious game,7012,Puzzle,132,129,116,0,116
+serious game,7013,Racing,132,129,116,0,116
+serious game,7014,Role Playing,132,129,116,0,116
+serious game,7015,Simulation,132,129,116,0,116
+serious game,7016,Sports,132,129,116,0,116
+serious game,7017,Strategy,132,129,116,0,116
+serious game,7018,Trivia,132,129,116,0,116
+serious game,7019,Word,132,129,116,0,116
+educational game,6014,Games (primary),197,197,46,23,23
+educational game,7001,Action,197,197,46,0,46
+educational game,7002,Adventure,197,197,46,0,46
+educational game,7003,Arcade,197,197,46,0,46
+educational game,7004,Board,197,197,46,0,46
+educational game,7005,Card,197,197,46,0,46
+educational game,7006,Casino,197,197,46,0,46
+educational game,7007,Dice,197,197,46,0,46
+educational game,7008,Educational,197,197,46,0,46
+educational game,7009,Family,197,197,46,0,46
+educational game,7010,Kids,197,197,46,0,46
+educational game,7011,Music,197,197,46,0,46
+educational game,7012,Puzzle,197,197,46,0,46
+educational game,7013,Racing,197,197,46,0,46
+educational game,7014,Role Playing,197,197,46,0,46
+educational game,7015,Simulation,197,197,46,0,46
+educational game,7016,Sports,197,197,46,0,46
+educational game,7017,Strategy,197,197,46,0,46
+educational game,7018,Trivia,197,197,46,0,46
+educational game,7019,Word,197,197,46,0,46
+sustainability game,6014,Games (primary),164,159,128,72,56
+sustainability game,7001,Action,164,159,128,1,127
+sustainability game,7002,Adventure,164,159,128,0,128
+sustainability game,7003,Arcade,164,159,128,0,128
+sustainability game,7004,Board,164,159,128,0,128
+sustainability game,7005,Card,164,159,128,0,128
+sustainability game,7006,Casino,164,159,128,0,128
+sustainability game,7007,Dice,164,159,128,0,128
+sustainability game,7008,Educational,164,159,128,0,128
+sustainability game,7009,Family,164,159,128,0,128
+sustainability game,7010,Kids,164,159,128,0,128
+sustainability game,7011,Music,164,159,128,0,128
+sustainability game,7012,Puzzle,164,159,128,0,128
+sustainability game,7013,Racing,164,159,128,0,128
+sustainability game,7014,Role Playing,164,159,128,0,128
+sustainability game,7015,Simulation,164,159,128,0,128
+sustainability game,7016,Sports,164,159,128,0,128
+sustainability game,7017,Strategy,164,159,128,0,128
+sustainability game,7018,Trivia,164,159,128,0,128
+sustainability game,7019,Word,164,159,128,0,128
+climate game,6014,Games (primary),168,167,114,43,71
+climate game,7001,Action,168,167,114,1,113
+climate game,7002,Adventure,168,167,114,0,114
+climate game,7003,Arcade,168,167,114,0,114
+climate game,7004,Board,168,167,114,0,114
+climate game,7005,Card,168,167,114,0,114
+climate game,7006,Casino,168,167,114,0,114
+climate game,7007,Dice,168,167,114,0,114
+climate game,7008,Educational,168,167,114,0,114
+climate game,7009,Family,168,167,114,0,114
+climate game,7010,Kids,168,167,114,0,114
+climate game,7011,Music,168,167,114,0,114
+climate game,7012,Puzzle,168,167,114,0,114
+climate game,7013,Racing,168,167,114,0,114
+climate game,7014,Role Playing,168,167,114,0,114
+climate game,7015,Simulation,168,167,114,0,114
+climate game,7016,Sports,168,167,114,0,114
+climate game,7017,Strategy,168,167,114,0,114
+climate game,7018,Trivia,168,167,114,0,114
+climate game,7019,Word,168,167,114,0,114
+eco game,6014,Games (primary),163,161,144,32,112
+eco game,7001,Action,163,161,144,0,144
+eco game,7002,Adventure,163,161,144,0,144
+eco game,7003,Arcade,163,161,144,0,144
+eco game,7004,Board,163,161,144,0,144
+eco game,7005,Card,163,161,144,0,144
+eco game,7006,Casino,163,161,144,0,144
+eco game,7007,Dice,163,161,144,0,144
+eco game,7008,Educational,163,161,144,0,144
+eco game,7009,Family,163,161,144,0,144
+eco game,7010,Kids,163,161,144,0,144
+eco game,7011,Music,163,161,144,0,144
+eco game,7012,Puzzle,163,161,144,0,144
+eco game,7013,Racing,163,161,144,0,144
+eco game,7014,Role Playing,163,161,144,0,144
+eco game,7015,Simulation,163,161,144,0,144
+eco game,7016,Sports,163,161,144,0,144
+eco game,7017,Strategy,163,161,144,0,144
+eco game,7018,Trivia,163,161,144,0,144
+eco game,7019,Word,163,161,144,0,144
+simulation,6014,Games (primary),180,179,173,153,20
+simulation,7001,Action,180,179,173,0,173
+simulation,7002,Adventure,180,179,173,0,173
+simulation,7003,Arcade,180,179,173,0,173
+simulation,7004,Board,180,179,173,0,173
+simulation,7005,Card,180,179,173,0,173
+simulation,7006,Casino,180,179,173,0,173
+simulation,7007,Dice,180,179,173,0,173
+simulation,7008,Educational,180,179,173,0,173
+simulation,7009,Family,180,179,173,0,173
+simulation,7010,Kids,180,179,173,0,173
+simulation,7011,Music,180,179,173,0,173
+simulation,7012,Puzzle,180,179,173,0,173
+simulation,7013,Racing,180,179,173,0,173
+simulation,7014,Role Playing,180,179,173,0,173
+simulation,7015,Simulation,180,179,173,0,173
+simulation,7016,Sports,180,179,173,0,173
+simulation,7017,Strategy,180,179,173,0,173
+simulation,7018,Trivia,180,179,173,0,173
+simulation,7019,Word,180,179,173,0,173
+simulator,6014,Games (primary),184,184,183,82,101
+simulator,7001,Action,184,184,183,0,183
+simulator,7002,Adventure,184,184,183,0,183
+simulator,7003,Arcade,184,184,183,0,183
+simulator,7004,Board,184,184,183,1,182
+simulator,7005,Card,184,184,183,0,183
+simulator,7006,Casino,184,184,183,0,183
+simulator,7007,Dice,184,184,183,0,183
+simulator,7008,Educational,184,184,183,0,183
+simulator,7009,Family,184,184,183,0,183
+simulator,7010,Kids,184,184,183,0,183
+simulator,7011,Music,184,184,183,0,183
+simulator,7012,Puzzle,184,184,183,0,183
+simulator,7013,Racing,184,184,183,0,183
+simulator,7014,Role Playing,184,184,183,0,183
+simulator,7015,Simulation,184,184,183,0,183
+simulator,7016,Sports,184,184,183,0,183
+simulator,7017,Strategy,184,184,183,0,183
+simulator,7018,Trivia,184,184,183,0,183
+simulator,7019,Word,184,184,183,0,183
+climate simulator,6014,Games (primary),177,175,62,27,35
+climate simulator,7001,Action,177,175,62,0,62
+climate simulator,7002,Adventure,177,175,62,0,62
+climate simulator,7003,Arcade,177,175,62,0,62
+climate simulator,7004,Board,177,175,62,0,62
+climate simulator,7005,Card,177,175,62,0,62
+climate simulator,7006,Casino,177,175,62,0,62
+climate simulator,7007,Dice,177,175,62,0,62
+climate simulator,7008,Educational,177,175,62,0,62
+climate simulator,7009,Family,177,175,62,0,62
+climate simulator,7010,Kids,177,175,62,0,62
+climate simulator,7011,Music,177,175,62,0,62
+climate simulator,7012,Puzzle,177,175,62,0,62
+climate simulator,7013,Racing,177,175,62,0,62
+climate simulator,7014,Role Playing,177,175,62,0,62
+climate simulator,7015,Simulation,177,175,62,0,62
+climate simulator,7016,Sports,177,175,62,0,62
+climate simulator,7017,Strategy,177,175,62,0,62
+climate simulator,7018,Trivia,177,175,62,0,62
+climate simulator,7019,Word,177,175,62,0,62
+city simulator,6014,Games (primary),178,177,171,75,96
+city simulator,7001,Action,178,177,171,0,171
+city simulator,7002,Adventure,178,177,171,0,171
+city simulator,7003,Arcade,178,177,171,0,171
+city simulator,7004,Board,178,177,171,0,171
+city simulator,7005,Card,178,177,171,0,171
+city simulator,7006,Casino,178,177,171,0,171
+city simulator,7007,Dice,178,177,171,0,171
+city simulator,7008,Educational,178,177,171,0,171
+city simulator,7009,Family,178,177,171,0,171
+city simulator,7010,Kids,178,177,171,0,171
+city simulator,7011,Music,178,177,171,0,171
+city simulator,7012,Puzzle,178,177,171,0,171
+city simulator,7013,Racing,178,177,171,0,171
+city simulator,7014,Role Playing,178,177,171,0,171
+city simulator,7015,Simulation,178,177,171,0,171
+city simulator,7016,Sports,178,177,171,0,171
+city simulator,7017,Strategy,178,177,171,0,171
+city simulator,7018,Trivia,178,177,171,0,171
+city simulator,7019,Word,178,177,171,0,171
+environment simulator,6014,Games (primary),170,166,139,77,62
+environment simulator,7001,Action,171,166,139,0,139
+environment simulator,7002,Adventure,170,166,139,0,139
+environment simulator,7003,Arcade,170,166,139,0,139
+environment simulator,7004,Board,170,166,139,0,139
+environment simulator,7005,Card,170,166,139,0,139
+environment simulator,7006,Casino,170,166,139,0,139
+environment simulator,7007,Dice,171,166,139,0,139
+environment simulator,7008,Educational,170,166,139,0,139
+environment simulator,7009,Family,170,166,139,0,139
+environment simulator,7010,Kids,170,166,139,0,139
+environment simulator,7011,Music,170,166,139,0,139
+environment simulator,7012,Puzzle,171,166,139,0,139
+environment simulator,7013,Racing,170,166,139,0,139
+environment simulator,7014,Role Playing,170,166,139,0,139
+environment simulator,7015,Simulation,170,166,139,0,139
+environment simulator,7016,Sports,170,166,139,0,139
+environment simulator,7017,Strategy,170,166,139,0,139
+environment simulator,7018,Trivia,170,166,139,0,139
+environment simulator,7019,Word,170,166,139,0,139
+strategy,6014,Games (primary),197,196,189,158,31
+strategy,7001,Action,197,196,189,0,189
+strategy,7002,Adventure,197,196,189,0,189
+strategy,7003,Arcade,197,196,189,0,189
+strategy,7004,Board,197,196,189,0,189
+strategy,7005,Card,197,196,189,0,189
+strategy,7006,Casino,197,196,189,0,189
+strategy,7007,Dice,197,196,189,0,189
+strategy,7008,Educational,197,196,189,0,189
+strategy,7009,Family,197,196,189,0,189
+strategy,7010,Kids,197,196,189,0,189
+strategy,7011,Music,197,196,189,0,189
+strategy,7012,Puzzle,197,196,189,0,189
+strategy,7013,Racing,197,196,189,0,189
+strategy,7014,Role Playing,197,196,189,0,189
+strategy,7015,Simulation,197,196,189,0,189
+strategy,7016,Sports,197,196,189,0,189
+strategy,7017,Strategy,197,196,189,0,189
+strategy,7018,Trivia,197,196,189,0,189
+strategy,7019,Word,197,196,189,0,189
+management,6014,Games (primary),178,175,36,33,3
+management,7001,Action,178,175,36,0,36
+management,7002,Adventure,178,175,36,0,36
+management,7003,Arcade,178,175,36,0,36
+management,7004,Board,178,175,36,0,36
+management,7005,Card,178,175,36,0,36
+management,7006,Casino,178,175,36,0,36
+management,7007,Dice,178,175,36,0,36
+management,7008,Educational,178,175,36,0,36
+management,7009,Family,178,175,36,0,36
+management,7010,Kids,178,175,36,0,36
+management,7011,Music,178,175,36,0,36
+management,7012,Puzzle,178,175,36,0,36
+management,7013,Racing,178,175,36,0,36
+management,7014,Role Playing,178,175,36,0,36
+management,7015,Simulation,178,175,36,0,36
+management,7016,Sports,178,175,36,0,36
+management,7017,Strategy,178,175,36,0,36
+management,7018,Trivia,178,175,36,0,36
+management,7019,Word,178,175,36,0,36
+decision-making,6014,Games (primary),154,154,3,2,1
+decision-making,7001,Action,154,154,3,0,3
+decision-making,7002,Adventure,154,154,3,0,3
+decision-making,7003,Arcade,154,154,3,0,3
+decision-making,7004,Board,154,154,3,0,3
+decision-making,7005,Card,154,154,3,0,3
+decision-making,7006,Casino,154,154,3,0,3
+decision-making,7007,Dice,154,154,3,0,3
+decision-making,7008,Educational,154,154,3,0,3
+decision-making,7009,Family,154,154,3,0,3
+decision-making,7010,Kids,154,154,3,0,3
+decision-making,7011,Music,154,154,3,0,3
+decision-making,7012,Puzzle,154,154,3,0,3
+decision-making,7013,Racing,154,154,3,0,3
+decision-making,7014,Role Playing,154,154,3,0,3
+decision-making,7015,Simulation,154,154,3,0,3
+decision-making,7016,Sports,154,154,3,0,3
+decision-making,7017,Strategy,154,154,3,0,3
+decision-making,7018,Trivia,154,154,3,0,3
+decision-making,7019,Word,154,154,3,0,3
+problem solving,6014,Games (primary),173,172,12,12,0
+problem solving,7001,Action,173,172,12,0,12
+problem solving,7002,Adventure,173,172,12,0,12
+problem solving,7003,Arcade,173,172,12,0,12
+problem solving,7004,Board,173,172,12,0,12
+problem solving,7005,Card,173,172,12,0,12
+problem solving,7006,Casino,173,172,12,0,12
+problem solving,7007,Dice,173,172,12,0,12
+problem solving,7008,Educational,173,172,12,0,12
+problem solving,7009,Family,173,172,12,0,12
+problem solving,7010,Kids,173,172,12,0,12
+problem solving,7011,Music,173,172,12,0,12
+problem solving,7012,Puzzle,173,172,12,0,12
+problem solving,7013,Racing,173,172,12,0,12
+problem solving,7014,Role Playing,173,172,12,0,12
+problem solving,7015,Simulation,173,172,12,0,12
+problem solving,7016,Sports,173,172,12,0,12
+problem solving,7017,Strategy,173,172,12,0,12
+problem solving,7018,Trivia,173,172,12,0,12
+problem solving,7019,Word,173,172,12,0,12
+behaviour change,6014,Games (primary),172,170,0,0,0
+behaviour change,7001,Action,172,170,0,0,0
+behaviour change,7002,Adventure,172,170,0,0,0
+behaviour change,7003,Arcade,172,170,0,0,0
+behaviour change,7004,Board,172,170,0,0,0
+behaviour change,7005,Card,172,170,0,0,0
+behaviour change,7006,Casino,172,170,0,0,0
+behaviour change,7007,Dice,172,170,0,0,0
+behaviour change,7008,Educational,172,170,0,0,0
+behaviour change,7009,Family,172,170,0,0,0
+behaviour change,7010,Kids,172,170,0,0,0
+behaviour change,7011,Music,172,170,0,0,0
+behaviour change,7012,Puzzle,172,170,0,0,0
+behaviour change,7013,Racing,172,170,0,0,0
+behaviour change,7014,Role Playing,172,170,0,0,0
+behaviour change,7015,Simulation,172,170,0,0,0
+behaviour change,7016,Sports,172,170,0,0,0
+behaviour change,7017,Strategy,172,170,0,0,0
+behaviour change,7018,Trivia,172,170,0,0,0
+behaviour change,7019,Word,172,170,0,0,0
+SDG,6014,Games (primary),167,157,5,3,2
+SDG,7001,Action,167,157,5,0,5
+SDG,7002,Adventure,167,157,5,0,5
+SDG,7003,Arcade,167,157,5,0,5
+SDG,7004,Board,167,157,5,0,5
+SDG,7005,Card,167,157,5,0,5
+SDG,7006,Casino,167,157,5,0,5
+SDG,7007,Dice,167,157,5,0,5
+SDG,7008,Educational,167,157,5,0,5
+SDG,7009,Family,167,157,5,0,5
+SDG,7010,Kids,167,157,5,0,5
+SDG,7011,Music,167,157,5,0,5
+SDG,7012,Puzzle,167,157,5,0,5
+SDG,7013,Racing,167,157,5,0,5
+SDG,7014,Role Playing,167,157,5,0,5
+SDG,7015,Simulation,167,157,5,0,5
+SDG,7016,Sports,167,157,5,0,5
+SDG,7017,Strategy,167,157,5,0,5
+SDG,7018,Trivia,167,157,5,0,5
+SDG,7019,Word,167,157,5,0,5
+sustainable development,6014,Games (primary),178,175,4,0,4
+sustainable development,7001,Action,178,175,4,0,4
+sustainable development,7002,Adventure,178,175,4,0,4
+sustainable development,7003,Arcade,178,175,4,0,4
+sustainable development,7004,Board,178,175,4,0,4
+sustainable development,7005,Card,178,175,4,0,4
+sustainable development,7006,Casino,178,175,4,0,4
+sustainable development,7007,Dice,178,175,4,0,4
+sustainable development,7008,Educational,178,175,4,0,4
+sustainable development,7009,Family,178,175,4,0,4
+sustainable development,7010,Kids,178,175,4,0,4
+sustainable development,7011,Music,178,175,4,0,4
+sustainable development,7012,Puzzle,178,175,4,0,4
+sustainable development,7013,Racing,178,175,4,0,4
+sustainable development,7014,Role Playing,178,175,4,0,4
+sustainable development,7015,Simulation,178,175,4,0,4
+sustainable development,7016,Sports,178,175,4,0,4
+sustainable development,7017,Strategy,178,175,4,0,4
+sustainable development,7018,Trivia,178,175,4,0,4
+sustainable development,7019,Word,178,175,4,0,4
+agenda 2030,6014,Games (primary),168,164,0,0,0
+agenda 2030,7001,Action,168,164,0,0,0
+agenda 2030,7002,Adventure,168,164,0,0,0
+agenda 2030,7003,Arcade,168,164,0,0,0
+agenda 2030,7004,Board,168,164,0,0,0
+agenda 2030,7005,Card,168,164,0,0,0
+agenda 2030,7006,Casino,168,164,0,0,0
+agenda 2030,7007,Dice,168,164,0,0,0
+agenda 2030,7008,Educational,168,164,0,0,0
+agenda 2030,7009,Family,168,164,0,0,0
+agenda 2030,7010,Kids,168,164,0,0,0
+agenda 2030,7011,Music,168,164,0,0,0
+agenda 2030,7012,Puzzle,168,164,0,0,0
+agenda 2030,7013,Racing,168,164,0,0,0
+agenda 2030,7014,Role Playing,168,164,0,0,0
+agenda 2030,7015,Simulation,168,164,0,0,0
+agenda 2030,7016,Sports,168,164,0,0,0
+agenda 2030,7017,Strategy,168,164,0,0,0
+agenda 2030,7018,Trivia,168,164,0,0,0
+agenda 2030,7019,Word,168,164,0,0,0
+poverty,6014,Games (primary),100,96,0,0,0
+poverty,7001,Action,100,96,0,0,0
+poverty,7002,Adventure,100,96,0,0,0
+poverty,7003,Arcade,100,96,0,0,0
+poverty,7004,Board,100,96,0,0,0
+poverty,7005,Card,100,96,0,0,0
+poverty,7006,Casino,100,96,0,0,0
+poverty,7007,Dice,100,96,0,0,0
+poverty,7008,Educational,100,96,0,0,0
+poverty,7009,Family,100,96,0,0,0
+poverty,7010,Kids,100,96,0,0,0
+poverty,7011,Music,100,96,0,0,0
+poverty,7012,Puzzle,100,96,0,0,0
+poverty,7013,Racing,100,96,0,0,0
+poverty,7014,Role Playing,100,96,0,0,0
+poverty,7015,Simulation,100,96,0,0,0
+poverty,7016,Sports,100,96,0,0,0
+poverty,7017,Strategy,100,96,0,0,0
+poverty,7018,Trivia,100,96,0,0,0
+poverty,7019,Word,100,96,0,0,0
+hunger,6014,Games (primary),165,163,7,6,1
+hunger,7001,Action,165,163,7,0,7
+hunger,7002,Adventure,165,163,7,0,7
+hunger,7003,Arcade,165,163,7,0,7
+hunger,7004,Board,165,163,7,0,7
+hunger,7005,Card,165,163,7,0,7
+hunger,7006,Casino,165,163,7,0,7
+hunger,7007,Dice,165,163,7,0,7
+hunger,7008,Educational,165,163,7,0,7
+hunger,7009,Family,165,163,7,0,7
+hunger,7010,Kids,165,163,7,0,7
+hunger,7011,Music,165,163,7,0,7
+hunger,7012,Puzzle,165,163,7,0,7
+hunger,7013,Racing,165,163,7,0,7
+hunger,7014,Role Playing,165,163,7,0,7
+hunger,7015,Simulation,165,163,7,0,7
+hunger,7016,Sports,165,163,7,0,7
+hunger,7017,Strategy,165,163,7,0,7
+hunger,7018,Trivia,165,163,7,0,7
+hunger,7019,Word,165,163,7,0,7

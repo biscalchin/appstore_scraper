@@ -1,0 +1,43 @@
+query_group,n_items,n_relevant,ap
+circular economy - Games (primary),5,5,1.0
+city simulator - Games (primary),75,17,0.3079182220647195
+climate change - Games (primary),8,8,1.0
+climate game - Games (primary),43,33,0.8057175052904477
+climate simulator - Games (primary),27,7,0.41942596876807403
+eco - Games (primary),8,8,1.0
+eco city - Games (primary),63,34,0.8530364540012959
+eco game - Games (primary),32,26,0.9068682516339954
+ecosystem - Games (primary),7,5,0.8285714285714285
+education - Games (primary),6,0,-0.0
+educational - Games (primary),10,0,-0.0
+educational game - Games (primary),23,2,0.08514492753623187
+environment simulator - Games (primary),77,7,0.08999362723321577
+equality - Games (primary),13,0,-0.0
+forest - Games (primary),48,14,0.6050352947503111
+green - Games (primary),17,5,0.7731092436974789
+hunger - Games (primary),6,2,0.6666666666666666
+inclusion - Games (primary),23,1,0.043478260869565216
+learning - Games (primary),6,1,0.5
+learning game - Games (primary),22,2,0.3125
+management - Games (primary),33,4,0.571969696969697
+marine - Games (primary),10,0,-0.0
+nature - Games (primary),17,8,0.6306205436720143
+oceans - Games (primary),49,22,0.6231240528429021
+planet - Games (primary),89,23,0.38159963440585765
+problem solving - Games (primary),12,0,-0.0
+public transport - Games (primary),8,1,0.5
+recycling - Games (primary),12,12,1.0
+resource management - Games (primary),8,5,0.8392857142857143
+serious game - Card,8,0,-0.0
+serious game - Games (primary),114,7,0.19449964196204797
+simulation - Games (primary),153,18,0.17370565375016586
+simulator - Games (primary),82,8,0.15208156303862036
+strategy - Games (primary),158,16,0.18328281517090975
+sustainability game - Games (primary),72,69,0.9889954088779069
+sustainable city - Games (primary),13,9,0.8447293447293449
+teaching sustainability - Games (primary),6,6,1.0
+urban planning - Games (primary),16,7,0.5565476190476191
+water - Games (primary),41,7,0.27100686669652185
+wildlife - Games (primary),32,11,0.5848755411255411
+wind - Games (primary),7,1,1.0
+world - Games (primary),105,19,0.28139242862874314

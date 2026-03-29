@@ -1,0 +1,43 @@
+query_group,ndcg_at_10
+circular economy - Games (primary),1.0
+city simulator - Games (primary),0.2489083270225946
+climate change - Games (primary),0.9607283990265113
+climate game - Games (primary),0.7771744495062364
+climate simulator - Games (primary),0.38121301394452073
+eco - Games (primary),0.9785509116948636
+eco city - Games (primary),0.9664515752024123
+eco game - Games (primary),0.6472970359168823
+ecosystem - Games (primary),0.9512704799940542
+education - Games (primary),0.0
+educational - Games (primary),0.0
+educational game - Games (primary),0.0
+environment simulator - Games (primary),0.07945707943276742
+equality - Games (primary),0.0
+forest - Games (primary),0.5806118635542749
+green - Games (primary),0.902152160835826
+hunger - Games (primary),0.8315546295836225
+inclusion - Games (primary),0.0
+learning - Games (primary),0.6309297535714574
+learning game - Games (primary),0.3868528072345416
+management - Games (primary),0.7246262544989281
+marine - Games (primary),0.0
+nature - Games (primary),0.5151196348156014
+oceans - Games (primary),0.43298261560801277
+planet - Games (primary),0.2534912457603831
+problem solving - Games (primary),0.0
+public transport - Games (primary),0.6309297535714575
+recycling - Games (primary),0.7393710454047686
+resource management - Games (primary),0.9427731067700877
+serious game - Card,0.0
+serious game - Games (primary),0.21604193620466006
+simulation - Games (primary),0.04041613692242317
+simulator - Games (primary),0.0536154448487712
+strategy - Games (primary),0.13886244387355454
+sustainability game - Games (primary),0.8187236973271443
+sustainable city - Games (primary),0.6711240140260666
+teaching sustainability - Games (primary),1.0
+urban planning - Games (primary),0.606618621183483
+water - Games (primary),0.3265208687926953
+wildlife - Games (primary),0.569295241516012
+wind - Games (primary),1.0
+world - Games (primary),0.33013764944712026

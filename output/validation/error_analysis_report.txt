@@ -1,0 +1,58 @@
+--- Error Analysis Report ---
+Threshold Used: 0.015
+
+=== FALSE POSITIVES (Noise Analysis) ===
+Top lexicon words found in 'Not Sustainable' apps (Count):
+- simulator: 656
+- world: 645
+- train: 272
+- water: 258
+- strategy: 218
+- simulation: 199
+- learn: 169
+- missions: 138
+- planet: 127
+- challenges: 123
+- learning: 122
+- business: 121
+- challenge: 110
+- forest: 109
+- transport: 106
+- environment: 86
+- animals: 79
+- management: 74
+- air: 71
+- improve: 71
+
+=== FALSE NEGATIVES (Gap Analysis) ===
+Top frequent terms in 'Directly Sustainable' apps that we missed (Count):
+- their: 23
+- about: 21
+- evolution: 21
+- life: 20
+- https: 16
+- farm: 14
+- each: 12
+- they: 12
+- like: 12
+- kids: 11
+- different: 11
+- subscription: 11
+- honeymoon: 11
+- them: 10
+- into: 10
+- policy: 10
+- garbage: 10
+- bloxels: 10
+- through: 9
+- where: 9
+- privacy: 9
+- girls: 9
+- farming: 9
+- human: 8
+- terms: 8
+- people: 8
+- species: 7
+- around: 7
+- award: 7
+- baby: 7
