@@ -1,5 +1,4 @@
-# App Store Scraper: Experiential Replication Guide
-
+# Replication package for: A Reproducible Pipeline to Discover Serious Games in App Stores: the Sustainability Case
 This guide provides the necessary instructions and details to replicate the experiments described in the study. The pipeline extracts, classifies, and evaluates sustainability-related applications from the Apple App Store.
 
 ## Directory Structure
