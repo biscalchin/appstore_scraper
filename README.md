@@ -22,8 +22,9 @@ If you use this codebase or dataset in your research, please cite our work:
   author = {Biscalchin, Alberto and Spalazzese, Romina and Font Fernández, José María and Martinez, Carolina and Davidsson, Paul},
   title = {Replication package for: A Reproducible Pipeline to Discover Serious Games in App Stores: the Sustainability Case},
   year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub repository}
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19312518},
+  url = {https://doi.org/10.5281/zenodo.19312518}
 }
 ```
 
