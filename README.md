@@ -107,3 +107,30 @@ For replication without re-running the APIs (which may yield distinct results du
 3.  **`data/results_with_llm_judge.csv`**: The output of Phase 4 containing the LLM-derived ground truth labels (`LLM_Directly`, `LLM_Indirectly`). 
 
 Researchers should start from `data/results_with_llm_judge.csv` and run the script `src/ranking_analysis.py` to directly replicate the validation results.
+
+## Authors
+
+*   **Alberto Biscalchin**<sup>1, 2</sup>
+*   **Romina Spalazzese**<sup>1, 2</sup>
+*   **José María Font Fernández**<sup>1, 2</sup>
+*   **Carolina Martinez**<sup>2, 3</sup>
+*   **Paul Davidsson**<sup>1, 2</sup>
+
+<small><sup>1</sup> *Department of Computer Science and Media Technology (DVMT), Faculty of Technology and Society (TS), Malmö University, Malmö, Sweden*</small>  
+<small><sup>2</sup> *Sustainable Digitalisation Research Centre (SDRC), Malmö University, Malmö, Sweden*</small>  
+<small><sup>3</sup> *Department of Childhood, Education and Society, Faculty of Education and Society (LS), Malmö University, Malmö, Sweden*</small>
+
+## How to Cite
+
+If you use this codebase or dataset in your research, please cite our work:
+
+```bibtex
+@misc{appstore_scraper,
+  author = {Biscalchin, Alberto and Spalazzese, Romina and Font Fernández, José María and Martinez, Carolina and Davidsson, Paul},
+  title = {App Store Scraper: Experimental Replication},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository}
+}
+```
+*(Please update the BibTeX entry with the exact details of your final publication).*
